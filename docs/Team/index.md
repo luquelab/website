@@ -25,7 +25,7 @@ Anuradha (Anu) Agarwal is responsible for implementing, maintaining, and develop
 [Email](aagarwal3258@sdsu.edu) \
 [Functional resume](link?) \
 [Academic CV](link?) \
-[LinkedIn](https://www.linkedin.com/in/anuradhagarwal/) \
+[LinkedIn](https://www.linkedin.com/in/anuradhagarwal/) 
 
 **Amartya Yalla** \
 ![picture](address) \
@@ -34,7 +34,7 @@ Amartya Yalla is currently assisting the lab manager to carry and executing oper
 [Email](ayalla8921@sdsu.edu) \
 [Functional resume](link?) \
 [CV](link?) \
-[LinkedIn](https://www.linkedin.com/in/amartya-yalla/) \
+[LinkedIn](https://www.linkedin.com/in/amartya-yalla/) 
 
 ## Add rest of the team!!!
 
