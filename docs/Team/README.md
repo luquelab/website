@@ -28,6 +28,7 @@ Files:
 + Use picture from Linkedin or internal (whatever looks better).
 + Include current position.
 + Include LinkedIn and/or other professional websites (e.g., Google Scholar)
-+ Include degree/postion obtained/done the lab. Add period.
-+ Include one line summary of the research/role. Include deliverables with links (publications, softwares, presentations).
++ Include degree/postion obtained/done in the lab. Add year/period.
++ Include one line about the roles, research done, and time. Include deliverables with links (publications, softwares, presentations). Include funding that supported their contribution.
+
 
