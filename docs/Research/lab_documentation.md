@@ -8,6 +8,5 @@ has_children: true
 
 <!DOCTYPE html>
 <meta charset="utf-8">
-<title>Redirecting to https://www.luquelab.com/</title>
-<meta http-equiv="refresh" content="0; URL=https://www.luquelab.com/">
-<link rel="canonical" href="https://www.luquelab.com/">
+<meta http-equiv="refresh" content="0; URL=https://luquelab.github.io/Athena/courses/">
+<link rel="canonical" href="https://luquelab.github.io/Athena/courses/">
