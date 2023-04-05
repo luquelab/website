@@ -7,4 +7,4 @@ has_children: true
 
 # Home
 
-This is the homepage 
+This is the homepage of the website 
