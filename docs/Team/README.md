@@ -6,7 +6,7 @@ Files:
 
 ## Instructions
 
-Recommended information for current members:
+### Recommended information for current members:
 + Display name in bold.
 + Use picture from Linkedin or internal (whatever looks better).
 + Include position.
@@ -23,3 +23,11 @@ Recommended information for current members:
   + Orcid
   + Personal pages or social media.
  
+### Recommended information for prior members:
++ Display name in bold.
++ Use picture from Linkedin or internal (whatever looks better).
++ Include current position.
++ Include LinkedIn and/or other professional websites (e.g., Google Scholar)
++ Include degree/postion obtained/done the lab. Add period.
++ Include one line summary of the research/role. Include deliverables with links (publications, softwares, presentations).
+
