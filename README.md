@@ -1,5 +1,5 @@
 # Description
-The goal of this repository is to maintain text file format and records of the content associated with the Luque lab website content. This is the primary source of information for any related website for the lab, which may be hosted in different servers.
+The goal of this repository is to store the content and records of the official website(s) of the Luque lab (hosted in other servers) in text file format and other reusable formats. This stes best practices in data management for the lab's content and would facilitate migrating website content to other servers or services when needed. This respoitory is the primary source of information for any related website for the lab, so it needs to be updated first before updates are reflected on the websited hosted in other servers.
 
 # Content
 Files and folders:
