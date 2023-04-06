@@ -1,10 +1,12 @@
+# Description
 This folder organizes the information for the Team page.
 
+# Content
 Files:
 + `index.md` contains the text formatted information to be displayed on the page.
 + `alumni.md` contains the text formatted information for the sub-page alumni.
 
-## Instructions
+# Instructions
 
 ### Recommended information for current members:
 + Display name in bold.
