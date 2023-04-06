@@ -27,7 +27,8 @@ The repository is maintained and updated following the protocol illustrated in t
      + Generate markdown text.
      + Update specific page/subpage. 
      + Add news if appropriate.
-     + Contributors must either write the text and upload the changes in the repo or generate an issue in the repository to be address by the contributor and the lab manager/technician.
+     + Contributors must either write the text and upload the changes in the repo or generate an issue in the repository that need to be addressed by the contributor and the lab manager/technician within a lab data management cycle.
+     + Once the item is updated, generate an issue in the repository to indicate that an item has been modified and is ready to be updated to the official website.
    
 3. **Update Official Website**: 
     + Update any changes uploaded in the repository to the associated lab website(s) once a month: The first day of the month (or first working day possible).
