@@ -8,3 +8,5 @@ Files and folders:
 + `/Research` contains the pages associated with the lab research.
 + `/Team` contains the pages associated with the current and prior team members.
 + `/Contact` contains the lab's main institutional affiliation and contact information.
+
+README files contain instructions to maintain and update each page.
