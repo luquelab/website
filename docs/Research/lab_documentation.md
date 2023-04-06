@@ -6,6 +6,7 @@ parent: Research
 has_children: true
 ---
 
-## Lab documentation
-
-Will be taken from Athena 
+<!DOCTYPE html>
+<meta charset="utf-8">
+<meta http-equiv="refresh" content="0; URL=https://luquelab.github.io/Athena/courses/">
+<link rel="canonical" href="https://luquelab.github.io/Athena/courses/">

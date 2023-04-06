@@ -1,35 +1,38 @@
+# Description
+The goal of this repository is to maintain text file format and records of the content associated with the Luque lab website content. This is the primary source of information for any related website for the lab, which may be hosted in different servers.
 
-# Luque Lab project template
+# Content
+Files and folders:
++ `README.md`: This file includes instructions (see below) on how to maintain and update the repository and reflect changes in associated websites.
++ `/docs`: This folder contains the markdown files with the content for the webistes organized by pages and including page dependencies and instructions for updateing and formatting each page.
++ `/resumes`: This folder contains the Academic CV and functional resume files for current and prior lab members.
++ `/visuals`: This folder contains files associated with images and videos used in the websites.
 
-## WHAT
-This repository provides the default structure for projects in the Luque Lab.
+# Instructions
+The repository is maintained and updated following the protocol illustrated in the flowchart below and described in text format after the figure.
 
-## WHO
-The template was originally concived by Antoni Luque based on recommendations from Noble PLoS Comp Biol 2009, Wilson et al PLoS Comp Biol 2017, and Briney "Data Management for Researchers" (2015), Hunt and Thomas "The Pragmatic Programmer: Your Journey to Mastery" (2019 2nd ed).
+1. **Lab New Item** \
+   This is the trigger. Here are examples:
+    + New submission (paper/grant)
+    + Publication 
+    + Awards 
+    + Presentations 
+    + Software/ data release 
+    + Events 
+  
+2. **Update Github website repository**: 
+     + Generate markdown text.
+     + Update specific page/subpage. 
+     + Add news if appropriate.
+     + Contributors must either write the text and upload the changes in the repo or generate an issue in the repository to be address by the contributor and the lab manager/technician.
+   
+3. **Update Official Website**: 
+    + Update any changes uploaded in the repository to the associated lab website(s) once a month: The first day of the month (or first working day possible).
+    + Review the repository content and lab website(s) content once a quarter, during the days associated to lab data management and overview.
+ 
 
-## WHEN
-This is an evolving repository
-Started: 2021-05-10
 
-End: ...
 
-## FILES & FOLDERS
-FOLDER: /bin
---> This folder contains basic scripts and executable files.
 
-FOLDER: /conda
---> This folder contains necessary scripts for deploying a conda package.
 
-FOLDER: /data
---> This folder contains the raw data associated with the project and the potential references.
 
-FOLDER: /docs
---> This folder contains the manuscript, digital copies of the cited references, figures, and other associated files for publication.
-
-FOLDER: /results
---> This folder contains the results, performance analysis, and commented references associated with the project.
-
-FOLDER: /src
---> This folder contains source code files that require compilation.
-
-The syntax of markdown files (.md) is CommonMark unless specified otherwise (https://commonmark.org/help/)
