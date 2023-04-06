@@ -1,5 +1,7 @@
+# Description
 This folder organizes the information for the different website pages.
 
+# Content
 Files and folders:
 + `index.md` contains the text formatted information to be displayed on the Home page.
 + `news.md` contains the text formatted information for the News sub-page.
@@ -11,19 +13,25 @@ Files and folders:
 
 README files contain instructions to maintain and update each page.
 
-## Instructions
+# Instructions
 
-### Recommended information for news:
-To ensure effective communication of news on the Luque Lab website, follow these guidelines:
-+ Display heading in bold.
-+ Include the date of the news update. 
-+ Use picture, preferably logo or QR code, that is relevant to the news.
-+ Embed the website link in the picture for easy access.
+### Home
+The main text is expected to remain the same for long periods of time. Discuss any possible updates during a quarter meeting (overall website review).
+
+### News
+Here are the guidelines to faciliate that lab news are communicated effectively:
++ Add entry to /docs/news.md
++ Heading: Display short title in bold and include link if appropriate.
++ Heading: Include the date of the news update in the heading line (separate by |. Don't use bold text).
++ Use picture, preferably logo or QR code, that is relevant to the news. Embed the same link used in the heading.
 + Include summary. The ideal content is
   + one sentence describing the main idea of the news,
   + one sentence about contributions or achievements related to the news,
   + one sentence summarizing the significant of impact of the news.
 + Include website or package links for further information, if applicable.
++ It is recommended to copy and edit a prior entry from news.md to facilitate adding the new content.
++ Copy the top three news to index.md so they're displayed directly in the Home page.
+
 
 
 
