@@ -12,12 +12,12 @@ Files and folders:
 The repository is maintained and updated following the protocol illustrated in the flowchart below and described in text format after the figure.
 
 1. **Lab New Item.** This is the trigger. Here are examples:
-  + New submission (paper/grant)
-  + Publication 
-  + Awards 
-  + Presentations 
-  + Software/ data release 
-  + Events 
+    + New submission (paper/grant)
+    + Publication 
+    + Awards 
+    + Presentations 
+    + Software/ data release 
+    + Events 
   
 2. **Update Github website repository**: 
      + Generate markdown text.
