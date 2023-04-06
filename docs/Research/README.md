@@ -1,5 +1,7 @@
+# Description
 This folder organizes the information for the Research page.
 
+# Content
 Files:
 + `index.md` contains the text formatted information to be displayed on the page.
 + `publications.md` contains the list of publications from the lab.
@@ -8,7 +10,7 @@ Files:
 + `softwares.md` contains the list of packages and apps released by the lab.
 + `presentations.md` contains the list of talks, workshops and posters contributed by lab members.
 
-## Instructions
+# Instructions
 
 ### Recommended information for publications:
 Summary section:
