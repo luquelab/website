@@ -11,7 +11,8 @@ Files and folders:
 # Instructions
 The repository is maintained and updated following the protocol illustrated in the flowchart below and described in text format after the figure.
 
-1. **Lab New Item.** This is the trigger. Here are examples:
+1. **Lab New Item** \
+   This is the trigger. Here are examples:
     + New submission (paper/grant)
     + Publication 
     + Awards 
