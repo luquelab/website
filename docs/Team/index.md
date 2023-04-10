@@ -29,12 +29,90 @@ Anuradha (Anu) Agarwal is responsible for implementing, maintaining, and develop
 
 **Amartya Yalla** \
 ![picture](address) \
-Lab manager assistant. \
-Amartya Yalla is currently assisting the lab manager to carry and executing operational tasks in the lab. Amartya received his Bachelors in Computer Science from XYZ in 2021 and is completing his Masters in Computational Science at San Diego State University (expected in 2024). He is a big XYZ fan. \
+Lab Manager Assistant. \
+Amartya Yalla is currently assisting the lab manager to carry and executing operational tasks in the lab. Amartya received his Bachelors in Computer Science from VIT University in 2021 and is completing his Masters in Computational Science at San Diego State University (expected in 2024). He likes swimming and painting. \
 [Email](ayalla8921@sdsu.edu) \
 [Functional resume](link?) \
 [CV](link?) \
 [LinkedIn](https://www.linkedin.com/in/amartya-yalla/) 
 
-## Add rest of the team!!!
+**Sergio Cobo-López** \
+![picture](address) \
+Postdoc \
+DESCRIPTION..............\
+[Email](scobolopez@sdsu.edu) \
+[Functional resume](link?) \
+[CV](link?) \
+[LinkedIn](https://www.linkedin.com/in/sergio-cobo-l%C3%B3pez-8706b2b9/?locale=en_US)
+
+**Diana Lee** \
+![picture](address) \
+PhD student \
+DESCRIPTION..............\
+[Email](lee9@rohan.sdsu.edu) \
+[Functional resume](link?) \
+[CV](link?) \
+[LinkedIn](https://www.linkedin.com/in/diana-lee-98198a35/)
+
+**James Mullinix** \
+![picture](address) \
+PhD student \
+DESCRIPTION.............\
+[Email](jmullinix@mail.sdsu.edu) \
+[Functional resume](link?) \
+[CV](link?) \
+[LinkedIn](https://www.linkedin.com/in/jamesmullinix/)
+
+**Aurora Vogel** \
+![picture](address) \
+Master student \
+DESCRIPTION.............\
+[Email](......) \
+[Functional resume](link?) \
+[CV](link?) \
+[LinkedIn](https://www.linkedin.com/in/aurora-vogel-7b7186196/)
+
+**Brandon Ricafrente** \
+![picture](address) \
+Master student \
+DESCRIPTION.............\
+[Email](......) \
+[Functional resume](link?) \
+[CV](link?) \
+[LinkedIn](LINK?)
+
+**Colin Brown** \
+![picture](address) \
+Master student \
+DESCRIPTION.............\
+[Email](......) \
+[Functional resume](link?) \
+[CV](link?) \
+[LinkedIn](https://www.linkedin.com/in/colin-travis-brown/)
+
+**Caitlin Bartels** \
+![picture](address) \
+Undergraduate student \
+DESCRIPTION.............\
+[Email](......) \
+[Functional resume](link?) \
+[CV](link?) \
+[LinkedIn](https://www.linkedin.com/in/caitlin-bartels-a384891aa?original_referer=)
+
+**Vaishnavi Patel** \
+![picture](address) \
+Undergraduate student \
+DESCRIPTION.............\
+[Email](......) \
+[Functional resume](link?) \
+[CV](link?) \
+[LinkedIn](LINK ?)
+
+
+
+
+
+
+
+
 
