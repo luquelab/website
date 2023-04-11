@@ -13,27 +13,27 @@ parent: Home
 The lab Project led by masters student [Colin Brown](https://www.linkedin.com/in/colin-travis-brown) was released on [BioRxiv](https://www.biorxiv.org/) titled "[pyCapsid: Identifying dominant dynamics and quasi-rigid mechanical units in protein shells](https://www.biorxiv.org/content/10.1101/2023.02.27.529640v1)". The package [pyCapsid](https://luquelab.github.io/pyCapsid/) is available on [GitHub](https://github.com/luquelab/pyCapsid), [Conda](https://anaconda.org/luque_lab/pycapsid) and [PIP](https://pypi.org/project/pyCapsid/) and the package installation steps are described [here](https://luquelab.github.io/pyCapsid/installation/).
 
 **[Application Submitted to NSF GRFP](https://www.nsfgrfp.org/)** |  October 21, 2022 \
-![picture](address)\
+![picture](https://github.com/luquelab/website/blob/github-pages/visuals/News/2_Application%20Submitted%20to%20NSF%20GRFP%20%20October%2021%202022.png)\
 Masters student Aurora Vogel submitted an application for the [National Science Foundation Graduate Research Fellowship Program](https://www.nsfgrfp.org) (GRFP). GRFP recognizes and supports outstanding graduate students who have demonstrated the potential to be high achieving scientists and engineers, early in their careers.  Vogel is investigating the geometry of conical capsids (like HIV) in the Luque lab and is a prospective Ph.D. student in Mathematics.
 
 **[Invited seminar at UM](https://physics.as.miami.edu/events/seminars/index.html)** | September 21, 2022 \
-![picture](address)\
+![picture](https://github.com/luquelab/website/blob/github-pages/visuals/News/3_Invited%20seminar%20at%20UM%20%20September%2021%2C%202022.png)\
 Principal Investigator, Dr. Antoni Luque, was invited as a speaker at the Fall 2022 seminar series  in the Department of Physics at the University of Miami (UM). Dr. Luque shared the lab's progress in bridging the biophysics and evolution of viral capsids. The seminar was hosted by Prof. Vivek N. Prakash. The seminar was preceded by a coffee with graduate students, postdocs, and other faculty.
 
 **[Invited seminar at SDSU](https://www.sdsu.edu/)** | September 14, 2022 \
-![picture](address)\
+![picture]([https://github.com/luquelab/website/blob/github-pages/visuals/News/4_Invited%20seminar%20at%20SDSU%20September%2014%2C%202022.jpg](https://github.com/luquelab/website/blob/github-pages/visuals/News/4_Invited%20seminar%20at%20SDSU%20September%2014%2C%202022.jpg))\
 Masters student Aurora Vogel was an invited speaker in the [Fall 2022 seminar series](https://cdoneill.sdsu.edu/sgpsrs/) at San Diego State University (SDSU). Aurora shared her current research progress in developing a general geometric framework for describing viral architectures. The seminar was hosted by [Professor Chris O'Neill](https://cdoneill.sdsu.edu/). 
 
 **[Invited seminar at UM](https://welcome.miami.edu/)** | August 29, 2022 \
-![picture](address)\
+![picture](https://github.com/luquelab/website/blob/github-pages/visuals/News/3_Invited%20seminar%20at%20UM%20%20September%2021%2C%202022.png)\
 Principal Investigator, Dr. Antoni Luque, was the first invited speaker in the [Fall 2022 seminar series](https://biology.as.miami.edu/about-the-department/seminars/index.html) of the [Department of Biology](https://biology.as.miami.edu/) at the University of Miami (UM). Dr. Luque shared [the lab's progress](https://www.luquelab.com/publications.html) in bridging the biophysics and evolution of viral capsids. The seminar was hosted by [Prof. Alex Wilson](https://people.miami.edu/profile/6b8ff48cc6302817e386e1d15db36a1d) , and it was followed by a lunch with graduate students.
 
 **[Invited seminar at FAME, Flinders University, Australia](https://fame.flinders.edu.au/)** | August 17, 2022 \
-![picture](address)\
+![picture](https://github.com/luquelab/website/blob/github-pages/visuals/News/5_FAME_Aug%2017%2022.png)\
 Principal Investigator, Dr. Antoni Luque, visited the Flinders Accelerator for Microbiome Exploration [(FAME)](https://fame.flinders.edu.au/) at [Flinders University]((https://www.flinders.edu.au/) (Adelaide, Australia) to present the latest progress of the Luque lab in the prediction of viral capsids from metagenomic data. The directors of the center, Professors Rob Edwards and Liz Dinsdale, hosted the research visit.
 
 **[Poster contributions to the Virus of Microbes meeting](https://www.pprpffa.org/)** | July 20, 2022 \
-![picture](address)\
+![picture](https://github.com/luquelab/website/blob/githubpages/visuals/News/6_Poster%20contributions%20to%20the%20Virus%20of%20Microbes%20meeting%20July%2020%2C%202022.jpeg)\
 Postdoctoral researcher, [Dr. Sergio Cobo-López](https://scholar.google.com/citations?hl=en&user=m6m1HV4AAAAJ) presented a poster on his new approach to analyzing transient dynamics and its potential application to viral ecology at the international [Virus of Microbes](https://www.pprpffa.org/) (VoM) meeting, which took place in Guimarães (Portugal). Principal investigator, Dr. Antoni Luque, also presented a poster highlighting the lab's progress in predicting the capsid architecture of viruses from metagenomic data.
 
 **[Talk contribution to the Virus Structure and Assembly Conference](https://www.faseb.org/meetings-and-events/src-events/the-virus-structure-and-assembly-conference)**| June 27, 2022 \
