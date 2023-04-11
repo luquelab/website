@@ -5,7 +5,7 @@ nav_order: 1
 parent: Home
 
 ---
-![](https://github.com/luquelab/website/blob/github-pages/visuals/luquelab_newspage_2023-04-11.JPG) 
+![picture](https://github.com/luquelab/website/blob/github-pages/visuals/luquelab_newspage_2023-04-11.JPG) 
 ## News 
 
 **[New Computational tool for Capsids](https://www.biorxiv.org/content/10.1101/2023.02.27.529640v1)** |  March 1, 2023 \
