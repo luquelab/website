@@ -14,7 +14,7 @@ The Luque Lab investigates the physical structure and ecological properties of v
 ## [News](https://www.luquelab.com/news.html)
 # Latest News Updates
 ### [New Computational tool for Capsids](https://www.biorxiv.org/content/10.1101/2023.02.27.529640v1) |  March 1, 2023
-![picture](https://github.com/luquelab/website/blob/github-pages/visuals/News/1_new%20computational%20tool%20for%20capsids.png) \
+![](https://github.com/luquelab/website/blob/github-pages/visuals/News/1_new%20computational%20tool%20for%20capsids.png) \
 Project led by masters student [Colin Brown](https://www.linkedin.com/in/colin-travis-brown/) was released on [BioRxiv](https://www.biorxiv.org/) titled ["pyCapsid: Identifying dominant dynamics and quasi-rigid mechanical units in protein shells"](https://www.biorxiv.org/content/10.1101/2023.02.27.529640v1). The package [pyCapsid](https://luquelab.github.io/pyCapsid/) is available on GitHub, [Conda](https://anaconda.org/luque_lab/pycapsid) and [PIP](https://pypi.org/project/pyCapsid/) and the package installation steps are described [here](https://luquelab.github.io/pyCapsid/installation/). (Pitcure)
 
 ### [Application Submitted to NSF GRFP](https://www.nsfgrfp.org/) |  October 21, 2022
