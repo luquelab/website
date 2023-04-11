@@ -25,4 +25,58 @@ Hufsky, Franziska, Denis Beslic, Dimitri Boeckaerts, Sebastian Duchene, Enrique 
 
 Lee, Diana Y., Caitlin Bartels, Katelyn McNair, Robert A. Edwards, Manal A. Swairjo, and **Antoni Luque**. "Predicting the capsid architecture of phages from metagenomic data." Computational and Structural Biotechnology Journal, 20:721-732, **2022**. <https://doi.org/10.1016/j.csbj.2021.12.032>. Press release in the SDSU College of Sciences "Math is Magical": [Press note](https://sciences.sdsu.edu/math-is-magical/)
 
-...
+Silveira, Cynthia B., **Antoni Luque**, Forest Rohwer. "The landscape of lysogeny across microbial community density, diversity and energetics." Environmental Microbiology, 23:4098-4111, **2021** [doi.org/10.1111/1462-2920.15640](https://ami-journals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.15640).
+
+George, Emma E., James A. Mullinix, Fanwei Meng, Barbara A. Bailey, Clinton Edwards, Ben Felts, Andreas F. Haas, Aaron C. Hartmann, Benjamin Mueller, Ty NF. Roach, Peter Salamon, Cynthia Silveira, Mark J.A. Vermeij, Forest Rohwer, **Antoni Luque**. "Space-filling and benthic competition on coral reefs." Peerj9:e11213, **2021**. [https://doi.org/10.7717/peerj.11213](https://peerj.com/articles/11213/). See the [video abstract and interviews](https://www.youtube.com/watch?v=4l7FS9vBplo&ab_channel=PeerJ). The data is available at [https://doi.org/10.5683/SP2/HQMPKC](https://borealisdata.ca/dataset.xhtml?persistentId=doi:10.5683/SP2/HQMPKC) and the code is available on [GitHub](https://github.com/luquelab/George_Mullinix_etal_2021). 
+
+**Luque, Antoni**, James Mullinix, Matt Anderson, Kathy S. Williams, Janet Bowers. "Aligning Calculus with Life Sciences Disciplines: The Argument for Integrating Statistical Reasoning." Primus:1-19, **2021**. [https://doi.org/10.1080/10511970.2021.1881847](https://www.tandfonline.com/doi/full/10.1080/10511970.2021.1881847)
+
+Cobarrubia, Antonio, Jarod Tall, Austin Crispin-Smith, and **Antoni Luque**. "Empirical and theoretical analysis of particle diffusion in mucus." Frontiers in Physics, 9:594306, **2021**. [https://doi.org/10.3389/fphy.2021.594306](https://www.frontiersin.org/articles/10.3389/fphy.2021.594306/full). Press release in the SDSU Department of Physics: [Press note](https://physics.sdsu.edu/alumni-publish-capstone-project-findings-on-particle-flow-in-mucus/)
+
+​**Luque, Antoni**, Sean Benler, Diana Y. Lee, Colin Brown, Simon White. "The missing tailed phages: prediction of small capsid candidates." Microorganisms, 8:1944, **2020**. [doi.org/10.3390/microorganisms8121944](https://www.mdpi.com/2076-2607/8/12/1944)
+
+**Luque, Antoni**, Cynthia B Silveira. "Quantification of lysogeny caused by phage coinfections in microbial communities from biophysical principles." mSystems, 5:e00353-20, **2020**.​  [https://doi.org/10.1128/mSystems.00353-20](https://journals.asm.org/doi/10.1128/mSystems.00353-20).
+
+Anthenelli, Maxwell, Emily Jasien, Robert Edwards, Barbara Bailey, Ben Felts, Parag Katira, James Nulton, Peter Salamon, Forest Rohwer, Cynthia B. Silveira, **Antoni Luque**. "Phage and bacteria diversification through a prophage acquisition ratchet." Biorxiv, **2020**. [https://doi.org/10.1101/2020.04.08.028340](https://www.biorxiv.org/content/10.1101/2020.04.08.028340v1)
+
+Silveira, Cynthia B., Felipe H. Coutinho, Giselle S. Cavalcanti, Sean Benler, Michael P. Doane, Elizabeth A. Dinsdale, Robert A. Edwards, Ronaldo B. Francini-Filho, Cristiane C. Thompson, **Antoni Luque**. "Genomic and ecological attributes of marine bacteriophages encoding bacterial virulence genes." Bmc Genomics, 21:1-11, **2020**. [https://doi.org/10.1186/s12864-020-6523-2](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-020-6523-2).
+
+Bowers, Janet, Kathy Williams, **Antoni Luque**, Devon Quick, Mary Beisiegel, Jody Sorensen, Joan Kunz, Diane Smith, Lori Kayes. "Paradigms for creating activities that integrate mathematics and science topics." Journal Of Mathematics And Science: Collaborative Explorations, 16:6, **2020**. [doi.org/10.25891/14f6-by82](https://scholarscompass.vcu.edu/jmsce_vamsc/vol16/iss1/6/).
+
+Silveira, Cynthia B., **Antoni Luque**, Ty NF Roach, Helena Villela, Adam Barno, Kevin Green, Brandon Reyes, Esther Rubio-Portillo, Tram Le, Spencer Mead, Mark Hatay, Mark JA Vermeij, Yuichiro Takeshita, Andreas Haas, Barbara Bailey, Forest Rohwer. "Biophysical and physiological processes causing oxygen loss from coral reefs," Elife, 8: e49114. **2019**: [elifesciences.org/articles/49114](https://elifesciences.org/articles/49114). ELife Digest: "Starving corals of oxygen," [elifesciences.org/digests/49114/starving-corals-of-oxygen](https://elifesciences.org/digests/49114/starving-corals-of-oxygen).
+
+Joiner, Kevin L., Arlette Baljon, Jeremy Barr, Forest Rohwer, **Antoni Luque**. "Impact of bacteria motility in the encounter rates with bacteriophage in mucus." Scientific Reports, 9:16427, **2019**: [doi.org/10.1038/s41598-019-52794-2](https://www.nature.com/articles/s41598-019-52794-2).
+
+Twarock, Reidun, **Antoni Luque**. "Structural puzzles in virology solved with an overarching icosahedral design principle." Nature Communications,10:4414, **2019**: https://doi.org/10.1038/s41467-019-12367-3. Press releases: "Geometry goes viral" [(link)](https://www.york.ac.uk/news-and-events/news/2019/research/geometry-viral-researchers-solve-virus-puzzle/) and "Why viruses like Herpes and Zika will need to be reclassified" [(link)](https://www.eurekalert.org/news-releases/647224). 
+
+George, Emma E., James Mullinix, Fanwei Meng, Barbara Bailey, Clinton Edwards, Ben Felts, Andreas Haas, Aaron C. Hartmann, Benjamin Mueller, Jim Nulton, Ty N.F. Roach, Peter Salamon, Cynthia B. Silveira, Mark J.A. Vermeij, Forest L. Rohwer, **Antoni Luque**. "Relevance of coral geometry in the outcomes of the coral-algal benthic war." Biorxiv, :327031, **2018**. https://doi.org/10.1101/327031
+
+Nguyen, Sophie, Kristi Baker, Benjamin S. Padman, Ruzeen Patwa, Rhys A. Dunstan, Thomas A. Weston, Kyle Schlosser, Barbara Bailey, Trevor Lithgow, Michael Lazarou, **Antoni Luque**, Forest Rohwer, Richard S. Blumberg, Jeremy J. Barr. "Bacteriophage transcytosis provides a mechanism to cross epithelial cell layers." Mbio, 8:e01874-17, **2017**. https://doi.org/10.1128/mBio.01874-17. Press release in Science: "Does a sea of viruses inside our body help keep us healthy?: [link](https://www.science.org/content/article/does-sea-viruses-inside-our-body-help-keep-us-healthy). 
+
+Knowles, Ben, Barbara Bailey, Lance Boling, Mya Breitbart, Ana Cobian-Guemes, Javier Del Campo, Rob Edwards, Ben Felts, Juris Grasis, Andreas F. Haas, Parag Katira, Linda Wegley Kelly, **Antoni Luque**, Jim Nulton, Lauren Paul, Gregory Peters, Nate Robinett, Stuart Sandin, Anca Segall, Cynthia Silveira, Merry Youle, Forest Rohwer. "Variability and host density independence in inductions-based estimates of environmental lysogeny." Nature Microbiol. 2:17064, **2017**. https://doi.org/10.1038/nmicrobiol.2017.64
+
+**Luque, Antoni**, Gungor Ozer, Tamar Schlick. "Correlation among DNA linker length, linker histone concentration, and histone tails in chromatin." Biophysical Journal, 110:2309-2319, **2016**. https://doi.org/10.1016/j.bpj.2016.04.024​
+
+Knowles, B, CB Silveira, BA Bailey, K Barott, VA Cantu, AG Cobian-Guemes, FH Coutinho, EA Dinsdale, B Felts, KA Furby, E E George, KT Green, G B Gregoracci, A F Haas, J M Haggerty, E R Hester, N Hisakawa, L W Kelly, YW Lim, M Little, **A Luque**, T McDole-Somera, K McNair, L S de Oliveira, S D Quistad, N L Robinett, E Sala, P Salamon, S E Sanchez, S Sandin, G G Z Silva, J Smith, C Sullivan, C Thompson, M J A Vermeij, M Youle, C Young , B Zgliczynski, R Brainard, R A Edwards, J Nulton, F Thompson, F Rohwer. "Lytic to temperate switching of viral communities." Nature, Nature Publishing Group, 531:466-470, **2016**. https://doi.org/10.1038/nature17193​ Press note.
+
+Ozer, Gungor, **Antoni Luque**, Tamar Schlick. "The chromatin fiber: multiscale problems and approaches." Current Opinion In Structural Biology, 31:124-139, 2015. **2015**. https://doi.org/10.1016/j.sbi.2015.04.002​
+
+**Luque, Antoni**, Rosana Collepardo-Guevara, Sergei Grigoryev, Tamar Schlick. "Dynamic condensation of linker histone C-terminal domain regulates chromatin structure." Nucleic Acids Research, 42:7553-7560, **2014**. https://doi.org/10.1093/nar/gku491​
+
+Hernando-Pérez, Mercedes, Elena Pascual, María Aznar, Alina Ionel, José R. Castón, **Antoni Luque**, José L. Carrascosa, David Reguera, and Pedro J. de Pablo. "The interplay between mechanics and stability of viral cages." Nanoscale 6, 5: 2702-2709, **2014**.  https://doi.org/10.1039/C3NR05763A​
+
+**Luque, Antoni**, David Reguera. "Theoretical studies on assembly, physical stability and dynamics of viruses." Structure And Physics Of Viruses, Springer, 553--595, **2013**. https://doi.org/10.1007/978-94-007-6552-8_19 
+
+**Luque, Antoni**, David Reguera, Alexander Morozov, Joseph Rudnick, Robijn Bruinsma. "Physics of shell assembly: Line tension, hole implosion, and closure catastrophe." The Journal of Chemical Physics 136,18:184507, **2012**. https://doi.org/10.1063/1.4712304
+
+Aznar, Maria, **Antoni Luque**, David Reguera. "Relevance of capsid structure in the buckling and maturation of spherical viruses." Physical Biology, 9:036003, **2012**. https://doi.org/10.1088/1478-3975/9/3/036003
+
+Reguera, David, **Antoni Luque**, Poornachandra Sekhar Burada, Gerhard Schmid, J. M. Rubi, Peter Hänggi. "Entropic splitter for particle separation." Physical Review Letters 108, 2: 020604, **2012**. https://doi.org/10.1103/PhysRevLett.108.020604
+
+Carrasco, Carolina, **Antoni Luque**, M. Hernando-Pérez, Roberto Miranda, Jose L. Carrascosa, P. A. Serena, M. De Ridder et al. "Built-in mechanical stress in viral shells." Biophysical Journal 100, 4: 1100-1108, **2011**. https://doi.org/10.1016/j.bpj.2011.01.008. Press note.
+
+**Luque, Antoni**, David Reguera. "The structure of elongated viral capsids." Biophysical Journal, 98:2993--3003, **2010**. https://doi.org/10.1016/j.bpj.2010.02.051. [Press note](http://www.ub.edu/web/ub/en/menu_eines/noticies/2010/06/34.html).
+
+**Luque, Antoni**, Roya Zandi, and David Reguera. "Optimal architectures of elongated viruses," Proceedings Of The National Academy Of Sciences, 107:5323-5328, **2010**. https://doi.org/10.1073/pnas.0915122107. [Press note](https://web.ub.edu/en/web/actualitat/w/a-physical-model-describes-the-structures-of-viral-capsids-1).
+
+**A. Luque** and D. Reguera, "Physical origin of the structure of viruses" (Origen fisic de l'estructura dels virus), Omnis Cellula (Catalan magazine), 16:9, **2008**. 
