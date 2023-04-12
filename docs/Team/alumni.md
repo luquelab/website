@@ -29,34 +29,34 @@ Description :
 Email: msevilla1984@gmail.com
 [Linkedin](https://www.linkedin.com/in/marcelo-sevilla-74536450/) 
 
-**Emily Jasien**
+**Emily Jasien**\
 ![picture](address) \
 Description :  \
 [Google Scholar] \
 Master in Applied Mathematics
 Thesis: Modeling the transition between lytic and lysogenic behavior in a bacteria-phage system
 
-**Ashley Meng**
+**Ashley Meng**\
 ![picture](address) \
 Description :  \
 [Google Scholar] \
 
-**Nicole Tomassi**
+**Nicole Tomassi**\
 ![picture](address) \
 Description :  \
 [Google Scholar] \
 
-**James Hellfeier**
+**James Hellfeier**\
 ![picture](address) \
 Description : \
 [Google Scholar] \
 
-**Max Anthenelli**
+**Max Anthenelli**\
 ![picture](address) \
 Description : \
 [Google Scholar] \
 
-**Luke Turner**
+**Luke Turner**\
 ![picture](address) \
 Description : \
 [Google Scholar] \
