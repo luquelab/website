@@ -39,24 +39,24 @@ Thesis: Modeling the transition between lytic and lysogenic behavior in a bacter
 **Ashley Meng**\
 ![picture](address) \
 Description :  \
-[Google Scholar] \
+[Google Scholar]
 
 **Nicole Tomassi**\
 ![picture](address) \
 Description :  \
-[Google Scholar] \
+[Google Scholar]
 
 **James Hellfeier**\
 ![picture](address) \
 Description : \
-[Google Scholar] \
+[Google Scholar]
 
 **Max Anthenelli**\
 ![picture](address) \
 Description : \
-[Google Scholar] \
+[Google Scholar]
 
 **Luke Turner**\
 ![picture](address) \
 Description : \
-[Google Scholar] \
+[Google Scholar]
