@@ -32,7 +32,7 @@ Here are the guidelines to faciliate that lab news are communicated effectively:
 + It is recommended to copy and edit a prior entry from news.md to facilitate adding the new content.
 + Copy the top three news to index.md so they're displayed directly in the Home page.
 
-Flowchart guide for the instructions :
+**Flowchart guide for the instructions** :
 https://lucid.app/lucidchart/19249666-1054-4b07-87c6-a490c9c13e03/edit?view_items=AtZ25JSLHVv.&invitationId=inv_e9b04671-bae1-495a-9666-41071b45e513
 
 
