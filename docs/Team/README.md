@@ -34,5 +34,5 @@ Files:
 + Include degree/postion obtained/done in the lab. Add year/period.
 + Include one line about the roles, research done, and time. Include deliverables with links (publications, softwares, presentations). Include funding that supported their contribution.
 
-Flowchart guide for the instructions : https://lucid.app/lucidchart/0906cb71-4b79-44e8-b765-e1d30dd3272f/edit?viewport_loc=-654%2C342%2C2631%2C1210%2C0_0&invitationId=inv_c0ff9ead-6e01-4074-931c-a35e6f60c016 
+**Flowchart guide for the instructions** : https://lucid.app/lucidchart/0906cb71-4b79-44e8-b765-e1d30dd3272f/edit?viewport_loc=-654%2C342%2C2631%2C1210%2C0_0&invitationId=inv_c0ff9ead-6e01-4074-931c-a35e6f60c016 
 
