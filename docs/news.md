@@ -9,19 +9,19 @@ parent: Home
 ## News 
 
 **[New Computational tool for Capsids](https://www.biorxiv.org/content/10.1101/2023.02.27.529640v1)** |  March 1, 2023 \
-![picture](https://github.com/luquelab/website/blob/github-pages/visuals/News/1_new%20computational%20tool%20for%20capsids.png) \
+ ![picture](https://github.com/luquelab/website/blob/github-pages/visuals/News/1_new%20computational%20tool%20for%20capsids.png) \
 The lab Project led by masters student [Colin Brown](https://www.linkedin.com/in/colin-travis-brown) was released on [BioRxiv](https://www.biorxiv.org/) titled "[pyCapsid: Identifying dominant dynamics and quasi-rigid mechanical units in protein shells](https://www.biorxiv.org/content/10.1101/2023.02.27.529640v1)". The package [pyCapsid](https://luquelab.github.io/pyCapsid/) is available on [GitHub](https://github.com/luquelab/pyCapsid), [Conda](https://anaconda.org/luque_lab/pycapsid) and [PIP](https://pypi.org/project/pyCapsid/) and the package installation steps are described [here](https://luquelab.github.io/pyCapsid/installation/).
 
 **[Application Submitted to NSF GRFP](https://www.nsfgrfp.org/)** |  October 21, 2022 \
-![picture](https://github.com/luquelab/website/blob/github-pages/visuals/News/2_Application%20Submitted%20to%20NSF%20GRFP%20%20October%2021%202022.png)\
+ ![picture](https://github.com/luquelab/website/blob/github-pages/visuals/News/2_Application%20Submitted%20to%20NSF%20GRFP%20%20October%2021%202022.png)\
 Masters student Aurora Vogel submitted an application for the [National Science Foundation Graduate Research Fellowship Program](https://www.nsfgrfp.org) (GRFP). GRFP recognizes and supports outstanding graduate students who have demonstrated the potential to be high achieving scientists and engineers, early in their careers.  Vogel is investigating the geometry of conical capsids (like HIV) in the Luque lab and is a prospective Ph.D. student in Mathematics.
 
 **[Invited seminar at UM](https://physics.as.miami.edu/events/seminars/index.html)** | September 21, 2022 \
-![picture](https://github.com/luquelab/website/blob/github-pages/visuals/News/3_Invited%20seminar%20at%20UM%20%20September%2021%2C%202022.png)\
+ ![picture](https://github.com/luquelab/website/blob/github-pages/visuals/News/3_Invited%20seminar%20at%20UM%20%20September%2021%2C%202022.png)\
 Principal Investigator, Dr. Antoni Luque, was invited as a speaker at the Fall 2022 seminar series  in the Department of Physics at the University of Miami (UM). Dr. Luque shared the lab's progress in bridging the biophysics and evolution of viral capsids. The seminar was hosted by Prof. Vivek N. Prakash. The seminar was preceded by a coffee with graduate students, postdocs, and other faculty.
 
 **[Invited seminar at SDSU](https://www.sdsu.edu/)** | September 14, 2022 \
-![picture](https://github.com/luquelab/website/blob/github-pages/visuals/News/4_Invited%20seminar%20at%20SDSU%20September%2014%2C%202022.jpg)\
+ ![picture](https://github.com/luquelab/website/blob/github-pages/visuals/News/4_Invited%20seminar%20at%20SDSU%20September%2014%2C%202022.jpg)\
 Masters student Aurora Vogel was an invited speaker in the [Fall 2022 seminar series](https://cdoneill.sdsu.edu/sgpsrs/) at San Diego State University (SDSU). Aurora shared her current research progress in developing a general geometric framework for describing viral architectures. The seminar was hosted by [Professor Chris O'Neill](https://cdoneill.sdsu.edu/). 
 
 **[Invited seminar at UM](https://welcome.miami.edu/)** | August 29, 2022 \
