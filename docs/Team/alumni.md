@@ -22,4 +22,41 @@ Currently a Research Scientist at the [Naval Information Warfare Center (NIWC)](
 Ph.D. in Computational Sciences 2019 \
 Kevin Joiner developed his Ph.D. research thesis in the lab. Kevin developed new computational and mathematical approaches to investigate the interaction of viruses of bacteria interacting with their bacterial in mucus. He published part of his research in [Scientific Reports](https://doi.org/10.1038/s41598-019-52794-2). While in the lab, his research was funded by the [DoD SMART Scholarship](https://www.smartscholarship.org/smart), the [NSF S-STEM](https://beta.nsf.gov/funding/opportunities/nsf-scholarships-science-technology-engineering), and the [CSUPERB program](https://www.calstate.edu/impact-of-the-csu/research/csuperb).
 
-...
+**Marcelo Sevilla** \
+![picture](address) \
+Description :
+[Google Scholar] \
+Email: msevilla1984@gmail.com
+[Linkedin](https://www.linkedin.com/in/marcelo-sevilla-74536450/) 
+
+**Emily Jasien**
+![picture](address) \
+Description :  \
+[Google Scholar] \
+Master in Applied Mathematics
+Thesis: Modeling the transition between lytic and lysogenic behavior in a bacteria-phage system
+
+**Ashley Meng**
+![picture](address) \
+Description :  \
+[Google Scholar] \
+
+**Nicole Tomassi**
+![picture](address) \
+Description :  \
+[Google Scholar] \
+
+**James Hellfeier**
+![picture](address) \
+Description : \
+[Google Scholar] \
+
+**Max Anthenelli**
+![picture](address) \
+Description : \
+[Google Scholar] \
+
+**Luke Turner**
+![picture](address) \
+Description : \
+[Google Scholar] \
