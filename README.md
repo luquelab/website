@@ -33,6 +33,8 @@ The repository is maintained and updated following the protocol illustrated in t
 3. **Update Official Website**: 
     + Update any changes uploaded in the repository to the associated lab website(s) once a month: The first day of the month (or first working day possible).
     + Review the repository content and lab website(s) content once a quarter, during the days associated to lab data management and overview.
+
+ **Flowchart guide for the instructions** : https://lucid.app/lucidchart/17956c88-082c-40bd-8fb2-93d553510230/edit?invitationId=inv_c85e7217-ec5c-47c5-b743-4e7d2fea2cc8&page=0_0#
  
 
 
