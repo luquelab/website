@@ -33,7 +33,7 @@ George, Emma E., James A. Mullinix, Fanwei Meng, Barbara A. Bailey, Clinton Edwa
 
 Cobarrubia, Antonio, Jarod Tall, Austin Crispin-Smith, and **Antoni Luque**. "Empirical and theoretical analysis of particle diffusion in mucus." Frontiers in Physics, 9:594306, **2021**. [https://doi.org/10.3389/fphy.2021.594306](https://www.frontiersin.org/articles/10.3389/fphy.2021.594306/full). Press release in the SDSU Department of Physics: [Press note](https://physics.sdsu.edu/alumni-publish-capstone-project-findings-on-particle-flow-in-mucus/)
 
-​**Luque, Antoni**, Sean Benler, Diana Y. Lee, Colin Brown, Simon White. "The missing tailed phages: prediction of small capsid candidates." Microorganisms, 8:1944, **2020**. <doi.org/10.3390/microorganisms8121944>
+​**Luque, Antoni**, Sean Benler, Diana Y. Lee, Colin Brown, Simon White. "The missing tailed phages: prediction of small capsid candidates." Microorganisms, 8:1944, **2020**. <https://doi.org/10.3390/microorganisms8121944>
 
 **Luque, Antoni**, Cynthia B Silveira. "Quantification of lysogeny caused by phage coinfections in microbial communities from biophysical principles." mSystems, 5:e00353-20, **2020**.​  [https://doi.org/10.1128/mSystems.00353-20](https://journals.asm.org/doi/10.1128/mSystems.00353-20).
 
