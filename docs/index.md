@@ -6,7 +6,7 @@ has_children: true
 ---
 
 # Home
-![alt text](visuals/1_luquelab_homepage_2023-04-10.jpg)
+![alt text](./visuals/1_luquelab_homepage_2023-04-10.jpg)
 
 The Luque Lab investigates the physical structure and ecological properties of viruses by combining mathematical and computational models in close collaboration with experimentalists. The lab is part of the [Viral Information Institute (VII)](https://viralization.org/), the [Department of Mathematics and Statistics](https://math.sdsu.edu/) and the [Computational Science Research Center](http://www.csrc.sdsu.edu/) at [San Diego State University](http://www.sdsu.edu/).
 
