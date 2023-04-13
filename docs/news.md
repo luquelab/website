@@ -25,19 +25,19 @@ Principal Investigator, Dr. Antoni Luque, was invited as a speaker at the Fall 2
 Masters student Aurora Vogel was an invited speaker in the [Fall 2022 seminar series](https://cdoneill.sdsu.edu/sgpsrs/) at San Diego State University (SDSU). Aurora shared her current research progress in developing a general geometric framework for describing viral architectures. The seminar was hosted by [Professor Chris O'Neill](https://cdoneill.sdsu.edu/). 
 
 **[Invited seminar at UM](https://welcome.miami.edu/)** | August 29, 2022 \
-![picture](https://github.com/luquelab/website/blob/github-pages/visuals/News/3_Invited%20seminar%20at%20UM%20%20September%2021%2C%202022.png)\
+![picture](visuals/News/3_Invited_seminar_at_um_september_21_2022.png)\
 Principal Investigator, Dr. Antoni Luque, was the first invited speaker in the [Fall 2022 seminar series](https://biology.as.miami.edu/about-the-department/seminars/index.html) of the [Department of Biology](https://biology.as.miami.edu/) at the University of Miami (UM). Dr. Luque shared [the lab's progress](https://www.luquelab.com/publications.html) in bridging the biophysics and evolution of viral capsids. The seminar was hosted by [Prof. Alex Wilson](https://people.miami.edu/profile/6b8ff48cc6302817e386e1d15db36a1d) , and it was followed by a lunch with graduate students.
 
 **[Invited seminar at FAME, Flinders University, Australia](https://fame.flinders.edu.au/)** | August 17, 2022 \
-![picture](https://github.com/luquelab/website/blob/github-pages/visuals/News/5_FAME_Aug%2017%2022.png)\
+![picture](visuals/News/5_fame_aug_17_22.png)\
 Principal Investigator, Dr. Antoni Luque, visited the Flinders Accelerator for Microbiome Exploration [(FAME)](https://fame.flinders.edu.au/) at [Flinders University]((https://www.flinders.edu.au/) (Adelaide, Australia) to present the latest progress of the Luque lab in the prediction of viral capsids from metagenomic data. The directors of the center, Professors Rob Edwards and Liz Dinsdale, hosted the research visit.
 
 **[Poster contributions to the Virus of Microbes meeting](https://www.pprpffa.org/)** | July 20, 2022 \
-![picture](https://github.com/luquelab/website/blob/github-pages/visuals/News/6_Poster%20contributions%20to%20the%20Virus%20of%20Microbes%20meeting%20July%2020%2C%202022.jpeg)\
+![picture](visuals/News/6_poster_contributions_to_the_virus_of_microbes_meeting_july 20_2022.jpeg)\
 Postdoctoral researcher, [Dr. Sergio Cobo-López](https://scholar.google.com/citations?hl=en&user=m6m1HV4AAAAJ) presented a poster on his new approach to analyzing transient dynamics and its potential application to viral ecology at the international [Virus of Microbes](https://www.pprpffa.org/) (VoM) meeting, which took place in Guimarães (Portugal). Principal investigator, Dr. Antoni Luque, also presented a poster highlighting the lab's progress in predicting the capsid architecture of viruses from metagenomic data.
 
 **[Talk contribution to the Virus Structure and Assembly Conference](https://www.faseb.org/meetings-and-events/src-events/the-virus-structure-and-assembly-conference)**| June 27, 2022 \
-![picture](https://github.com/luquelab/website/blob/github-pages/visuals/News/7_Talk%20contribution%20to%20the%20Virus%20Structure%20and%20Assembly%20Conference%20June%2027%2C%202022.jpeg)\
+![picture](visuals/News/7_talk_contribution_to_the_virus_structure_and_assembly_conference_june_27_2022.jpeg)\
 Principal Investigator, Dr. Antoni Luque, gave a talk at the international [FASEB Virus Structure and Assembly Conference](https://www.faseb.org/meetings-and-events/src-events/the-virus-structure-and-assembly-conference) that took place in Southbridge, Massachusetts (USA). Dr. Luque shared the latest work of the lab in predicting the architecture of viral capsids from isolated and metagenomically assembled genomes. The talk highlighted the recent publication led by Ph.D. candidate [Diana Y. Lee](https://sciences.sdsu.edu/math-is-magical/) in the [Computational and Structural Biotechnology Journal](https://www.sciencedirect.com/science/article/pii/S2001037021005419?via%3Dihub). 
 
 **[Invited talk at the evolution series of El Colegio Nacional in Mexico City](https://colnal.mx/agenda/en-busca-de-los-virus-perdidos/)** | June 10, 2022 \
