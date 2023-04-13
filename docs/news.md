@@ -21,7 +21,7 @@ Masters student Aurora Vogel submitted an application for the [National Science 
 Principal Investigator, Dr. Antoni Luque, was invited as a speaker at the Fall 2022 seminar series  in the Department of Physics at the University of Miami (UM). Dr. Luque shared the lab's progress in bridging the biophysics and evolution of viral capsids. The seminar was hosted by Prof. Vivek N. Prakash. The seminar was preceded by a coffee with graduate students, postdocs, and other faculty.
 
 **[Invited seminar at SDSU](https://www.sdsu.edu/)** | September 14, 2022 \
- ![picture](https://github.com/luquelab/website/blob/github-pages/visuals/News/4_Invited%20seminar%20at%20SDSU%20September%2014%2C%202022.jpg)\
+ ![picture](visuals/News/4_invited seminar_sdsu_september_14_22.jpeg)\
 Masters student Aurora Vogel was an invited speaker in the [Fall 2022 seminar series](https://cdoneill.sdsu.edu/sgpsrs/) at San Diego State University (SDSU). Aurora shared her current research progress in developing a general geometric framework for describing viral architectures. The seminar was hosted by [Professor Chris O'Neill](https://cdoneill.sdsu.edu/). 
 
 **[Invited seminar at UM](https://welcome.miami.edu/)** | August 29, 2022 \
