@@ -6,7 +6,7 @@ has_children: false
 ---
 
 ## Contact 
-![picture](/docs/visuals/3_luquelab_contactpage_2023-04-10.jpg) \
+![picture](/docs/assets/images/3_luquelab_contactpage_2023-04-10.jpg) \
 [Department of Mathematics and Statistics](http://www.math.sdsu.edu/) \
 [Viral Information Institute](http://viralization.org/) \
 San Diego State University \
