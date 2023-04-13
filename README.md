@@ -9,7 +9,7 @@ Files and folders:
 + `README.md`: This file includes instructions (see below) on how to maintain and update the repository and reflect changes in associated websites.
 + `/docs`: This folder contains the markdown files with the content for the webistes organized by pages and including page dependencies and instructions for updateing and formatting each page.
 + `/resumes`: This folder contains the Academic CV and functional resume files for current and prior lab members.
-+ `/visuals`: This folder contains files associated with images and videos used in the websites.
+
 
 # Instructions
 The repository is maintained and updated following the protocol illustrated in the flowchart below and described in text format after the figure.
