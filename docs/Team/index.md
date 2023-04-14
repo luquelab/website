@@ -8,7 +8,7 @@ has_children: true
 ## Team 
 
 **Antoni Luque** \
-![picture](https://github.com/luquelab/website/blob/github-pages/visuals/Team%20Members/1%20_Prof%20Luque.jpg) \
+![picture](Team/images/1 _prof_luque.jpg) \
 Director and Principal Investigator \
 Antoni (Toni) Luque is steering the lab to investigate the interplay between the physics and evolution of viruses. He received his Ph.D. in Physics in 2011 from the University of Barcelona and trained as a postdoc in Computational Biology at New York University from 2012 to 2014. Toni joined San Diego State University as an Assistant Professor in 2015 and was promoted to Associate Professor in 2021. He is a big F.C. Barcelona soccer fan and loves good food. \
 [Email](aluque@sdsu.edu) \
