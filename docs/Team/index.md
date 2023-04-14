@@ -37,7 +37,7 @@ Amartya Yalla is currently assisting the lab manager to carry and executing oper
 [LinkedIn](https://www.linkedin.com/in/amartya-yalla/) 
 
 **Sergio Cobo-López** \
-![picture](https://github.com/luquelab/website/blob/github-pages/visuals/Team%20Members/Sergio%20Cobo-L%C3%B3pez.jpg) \
+![picture](images/sergio_cobo_lopez.jpg) \
 Postdoc \
 DESCRIPTION..............\
 [Email](scobolopez@sdsu.edu) \
@@ -55,7 +55,7 @@ DESCRIPTION..............\
 [LinkedIn](https://www.linkedin.com/in/diana-lee-98198a35/)
 
 **James Mullinix** \
-![picture](https://github.com/luquelab/website/blob/github-pages/visuals/Team%20Members/James%20Mullinix.png) \
+![picture](images/james_mullinix.png) \
 PhD student \
 DESCRIPTION.............\
 [Email](jmullinix@mail.sdsu.edu) \
