@@ -81,15 +81,6 @@ DESCRIPTION.............\
 [CV](link?) \
 [LinkedIn](LINK?)
 
-**Colin Brown** \
-<img src="images/colin_brown.jpg" width="200"> \
-Master student \
-DESCRIPTION.............\
-[Email](......) \
-[Functional resume](link?) \
-[CV](link?) \
-[LinkedIn](https://www.linkedin.com/in/colin-travis-brown/)
-
 **Caitlin Bartels** \
 <img src="images/caitlin_bartels.jpg" width="200"> \
 Undergraduate student \
