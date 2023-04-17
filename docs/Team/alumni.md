@@ -9,7 +9,7 @@ has_children: false
 ## Alumni 
 
 **Colin Brown** \
-![picture](address) \
+<img src="images/colin_brown.jpg" width="200"> \
 Currently a Research Scientist at [Luque lab](www.luquelab.com). \
 [LinkedIn]([?](https://www.linkedin.com/in/colin-travis-brown/)) \
 Master in Physics 2023 \
