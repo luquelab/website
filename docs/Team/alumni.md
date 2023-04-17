@@ -47,7 +47,7 @@ Description :  \
 [Google Scholar]
 
 **James Hellfeier**\
-<img src="images/james_hellfeier.PNG.jpg" width="200"> \
+<img src="images/james_hellfeier.PNG" width="200"> \
 Description : \
 [Google Scholar]
 
