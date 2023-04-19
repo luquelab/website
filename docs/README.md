@@ -36,5 +36,7 @@ Here are the guidelines to faciliate that lab news are communicated effectively:
 **Flowchart guide for the instructions** :
 https://lucid.app/lucidchart/19249666-1054-4b07-87c6-a490c9c13e03/edit?view_items=AtZ25JSLHVv.&invitationId=inv_e9b04671-bae1-495a-9666-41071b45e513
 
+<img src="flowchart_news.png" width="600">
+
 
 
