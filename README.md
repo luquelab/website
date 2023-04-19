@@ -36,6 +36,7 @@ The repository is maintained and updated following the protocol illustrated in t
 
  **Flowchart guide for the instructions** : https://lucid.app/lucidchart/17956c88-082c-40bd-8fb2-93d553510230/edit?invitationId=inv_c85e7217-ec5c-47c5-b743-4e7d2fea2cc8&page=0_0#
  
+ <img src="flowchart.png" width="600">  
 
 
 
