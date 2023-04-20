@@ -10,9 +10,11 @@ has_children: false
 
 **SUMMARY**
 
-The lab has published 32 articles, receiving 1565 citations as of April 1, 2023. You can receive notifications of any new publication via the [PI's Google Scholar](https://scholar.google.com/citations?user=ytvnI68AAAAJ&hl=en). 
+The lab has published 33 articles, receiving 1578 citations as of April 19, 2023. You can receive notifications of any new publication via the [PI's Google Scholar](https://scholar.google.com/citations?user=ytvnI68AAAAJ&hl=en). 
 
 **LIST OF PUBLICATIONS**
+
+Silveira, Cynthia B., Antoni Luque, Andreas F. Haas, Ty NF Roach, Emma E. George, Ben Knowles, Mark Little, Christopher J. Sullivan, Natascha S. Varona, Linda Wegley Kelly, Russel Brainard, Forest Rohwer, Barbara Bailey. "Viral predation pressure on coral reefs." BMC biology 21, no. 1 **2023**: 1-13. <https://doi.org/10.1186/s12915-023-01571-9>
 
 Papudeshi, Bhavya, Alejandro A. Vega, Cole Souza, Sarah K. Giles, Vijini Mallawaarachchi, Michael J. Roach, Michelle An, Nicole Jacobson, Katelyn McNair, Maria Fernanda Mora, Karina Pastrana, Christopher Leigh, Clarice Cram, Will S. Plewa, Susanna R. Grigson, George Bouras, Przemysław Decewicz, **Antoni Luque**, Lindsay Droit, Scott A. Handley, Anca M. Segall, Elizabeth A. Dinsdale,  Robert A. Edwards. "Novel crAssphage isolates exhibit conserved gene order and purifying selection of the host specificity protein." bioRxiv, **2023**. <https://doi.org/10.1101/2023.03.05.531146>
 
