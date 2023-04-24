@@ -24,7 +24,7 @@ List of publications section:
 
 **Flowchart guide for the instructions** : https://lucid.app/lucidchart/702f43ef-6eca-44e2-8f2e-58a68d160621/edit?beaconFlowId=ED9C27F2F812568B&invitationId=inv_333c27ff-beae-46c5-a6bd-e49e042b1e2d&page=0_0#
 
-<img src="flowcharts/news_flowchart.png" width="600">
+<img src="publications_flowchart.png" width="600">
 
 ### Recommended information for funding:
 ...
