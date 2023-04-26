@@ -12,9 +12,9 @@ has_children: true
 Director and Principal Investigator \
 Antoni (Toni) Luque is steering the lab to investigate the interplay between the physics and evolution of viruses. He received his Ph.D. in Physics in 2011 from the University of Barcelona and trained as a postdoc in Computational Biology at New York University from 2012 to 2014. Toni joined San Diego State University as an Assistant Professor in 2015 and was promoted to Associate Professor in 2021. He is a big F.C. Barcelona soccer fan and loves good food. \
 [Email](aluque@sdsu.edu) \
-[Functional resume](link?) \
+[Functional resume](https://github.com/luquelab/website/blob/github-pages/resumes/Luque_functional_resume_2022-11-17.pdf) \
 [LinkedIn](https://www.linkedin.com/in/antoni-luque-phd/) \
-[Academic CV](link?) \
+[Academic CV](https://github.com/luquelab/website/blob/github-pages/resumes/Luque_academic_CV_2022-10-26.pdf) \
 [Google Scholar](https://scholar.google.com/citations?user=ytvnI68AAAAJ&hl=en) \
 [ORCID:000-0002-5817-4914](https://orcid.org/0000-0002-5817-4914) 
 
@@ -32,7 +32,7 @@ Anuradha (Anu) Agarwal is responsible for implementing, maintaining, and develop
 Lab Manager Assistant. \
 Amartya Yalla is currently assisting the lab manager to carry and executing operational tasks in the lab. Amartya received his Bachelors in Computer Science from VIT University in 2021 and is completing his Masters in Computational Science at San Diego State University (expected in 2024). He likes swimming and painting. \
 [Email](ayalla8921@sdsu.edu) \
-[Functional resume](link?) \
+[Functional resume](https://github.com/luquelab/website/blob/github-pages/resumes/amartya_yalla_resume.pdf) \
 [CV](link?) \
 [LinkedIn](https://www.linkedin.com/in/amartya-yalla/) 
 
@@ -43,7 +43,7 @@ Sergio Cobo-López is a postdoctoral researcher at the Luquelab and the Rohwerla
 Sergio received his Ph.D. in Physics from the Universitat Rovira i Virgili (Tarragona, Spain) in 2020 and joined San Diego State University that year. Since 2023, Sergio has been a Margarita Salas postdoctoral fellow. In his free time, he loves swimming, running, biking, and exercising in general.\
 [Email](srgcobo@gmail.com) \
 [Functional resume](link?) \
-[CV](link?) \
+[CV](https://github.com/luquelab/website/blob/github-pages/resumes/sergio_cobo_cv.pdf) \
 [LinkedIn](https://www.linkedin.com/in/sergio-cobo-l%C3%B3pez-8706b2b9/)
 
 **Diana Lee** \
@@ -70,7 +70,7 @@ Master student \
 DESCRIPTION.............\
 [Email](......) \
 [Functional resume](link?) \
-[CV](link?) \
+[CV](https://github.com/luquelab/website/blob/github-pages/resumes/aurora_vogel_cv.pdf) \
 [LinkedIn](https://www.linkedin.com/in/aurora-vogel-7b7186196/)
 
 **Brandon Ricafrente** \
