@@ -76,9 +76,9 @@ DESCRIPTION.............\
 **Brandon Ricafrente** \
 <img src="images/brandon_ricafrente.jpg" width="200"> \
 Master student \
-DESCRIPTION.............\
+Brandon is a physics Masters student in the Luque Lab . He received a B.S. in physics with a minor in math from UCR. During his time at UCR he studied bilipid membrane surface dynamics. He joined the lab in 2020 to study viral capsid assembly. He enjoys reading novels and swimming as hobbies.\
 [Email](......) \
-[Functional resume](link?) \
+[Functional resume](https://github.com/luquelab/website/blob/github-pages/resumes/brandon_ricafrente_resume.pdf) \
 [CV](link?) \
 [LinkedIn](LINK?)
 
