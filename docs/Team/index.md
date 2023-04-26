@@ -39,11 +39,12 @@ Amartya Yalla is currently assisting the lab manager to carry and executing oper
 **Sergio Cobo-López** \
 <img src="images/sergio_cobo_lopez.jpg" width="200"> \
 Postdoc \
-DESCRIPTION..............\
-[Email](scobolopez@sdsu.edu) \
+Sergio Cobo-López is a postdoctoral researcher at the Luquelab and the Rohwerlab. He develops mathematical models for the ecology of bacteria and bacteriophage.
+Sergio received his Ph.D. in Physics from the Universitat Rovira i Virgili (Tarragona, Spain) in 2020 and joined San Diego State University that year. Since 2023, Sergio has been a Margarita Salas postdoctoral fellow. In his free time, he loves swimming, running, biking, and exercising in general.\
+[Email](srgcobo@gmail.com) \
 [Functional resume](link?) \
 [CV](link?) \
-[LinkedIn](https://www.linkedin.com/in/sergio-cobo-l%C3%B3pez-8706b2b9/?locale=en_US)
+[LinkedIn](https://www.linkedin.com/in/sergio-cobo-l%C3%B3pez-8706b2b9/)
 
 **Diana Lee** \
 <img src="images/diana_lee.jpg" width="200"> \
@@ -84,11 +85,11 @@ DESCRIPTION.............\
 **Caitlin Bartels** \
 <img src="images/caitlin_bartels.jpg" width="200"> \
 Undergraduate student \
-DESCRIPTION.............\
-[Email](......) \
-[Functional resume](link?) \
+Caitlin Bartels has worked on a wide array of projects in the lab, specifically relating to capsid architecture and herpesvirales latency. Caitlin received her Bachelor of Science in Biology from San Diego State University in 2023 and is currently on track to apply to medical school this coming cycle. Caitlin joined the lab in 2020 to learn more about viruses amidst the Covid-19 pandemic. She loves traveling, arts & crafts, and playing waterpolo.\
+[Email](caitlinbartels@gmail.com) \
+[Functional resume](https://github.com/luquelab/website/blob/github-pages/resumes/caitlin_bartels_resume.pdf) \
 [CV](link?) \
-[LinkedIn](https://www.linkedin.com/in/caitlin-bartels-a384891aa?original_referer=)
+[LinkedIn](https://www.linkedin.com/in/caitlin-bartels-a384891aa )
 
 **Vaishnavi Patel** \
 <img src="images/vaishnavi_patel.jpg" width="200"> \
