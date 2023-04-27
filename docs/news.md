@@ -81,7 +81,7 @@ Antonio Cobarrubia's work associated with the Luque lab has been highlighted by 
 With support from the [Gordon and Betty Moore Foundation](https://www.moore.org/), the [Luque lab](https://www.luquelab.com/) is exploring with three other groups at the Viral Information Institute ([Rohwer lab](https://coralandphage.org/), [Segall lab](https://segall-lab.sdsu.edu/), and [Edwards lab](https://cmi.sdsu.edu/matt-edwards/)) whether some viruses pop up spontaneously.
 
 **[Postdoctoral researcher awarded with fellowship Margarita Salas](https://scholar.google.com/citations?hl=en&user=m6m1HV4AAAAJ)** | Nov 12, 2021 \
-![picture](visuals/News/17 _sergiocobo.jpg)\
+![picture](visuals/News/17_sergiocobo.jpg)\
 Postdoctoral researcher [Dr. Sergio Cobo López](https://scholar.google.com/citations?hl=en&user=m6m1HV4AAAAJ) has been awarded the fellowship [Margarita Salas](https://scholar.google.com/citations?hl=en&user=m6m1HV4AAAAJ) from the Spanish Government to continue his research in phage-bacterial ecology and complex systems in biology during the next two years. He will be working with Principal Investigators Dr. Antoni Luque and [Dr. Forest Rohwer](https://scholar.google.com/citations?user=ALEZEdoAAAAJ&hl=en) at San Diego State University in 2023 and Principal Investigators [Dr. Roger Guimerà Manrique](https://scholar.google.com/citations?user=aDQtHNsAAAAJ&hl=en) and [Dr. Marta Sales-Pardo](https://scholar.google.com/citations?user=kZ5cedgAAAAJ&hl=en) from the [Sees:lab](http://seeslab.info/) at the [Universitat Rovira i Virgili](https://www.urv.cat/en/) in Spain.
 
 **[Selected in the San Diego State Research Highlights 2019-20](https://research.sdsu.edu/2020_research_highlights/luque)**  |  Dec 21, 2020 \
