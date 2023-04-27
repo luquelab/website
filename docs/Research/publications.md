@@ -10,9 +10,11 @@ has_children: false
 
 **SUMMARY**
 
-The lab has published 33 articles, receiving 1578 citations as of April 19, 2023. You can receive notifications of any new publication via the [PI's Google Scholar](https://scholar.google.com/citations?user=ytvnI68AAAAJ&hl=en). 
+The lab has published 34 articles, receiving 1578 citations as of April 27, 2023. You can receive notifications of any new publication via the [PI's Google Scholar](https://scholar.google.com/citations?user=ytvnI68AAAAJ&hl=en). 
 
 **LIST OF PUBLICATIONS**
+
+McKerral, Jody C., Bhavya Nalagampalli Papudeshi, Laura K. Inglis, Michael J. Roach, Przemyslaw Decewicz, Katelyn McNair, **Antoni Luque**, Elizabeth A. Dinsdale, and Robert A. Edwards. "The Promise and Pitfalls of Prophages." bioRxiv, **2023**: 2023-04. <https://doi.org/10.1101/2023.04.20.537752>
 
 Silveira, Cynthia B., Antoni Luque, Andreas F. Haas, Ty NF Roach, Emma E. George, Ben Knowles, Mark Little, Christopher J. Sullivan, Natascha S. Varona, Linda Wegley Kelly, Russel Brainard, Forest Rohwer, Barbara Bailey. "Viral predation pressure on coral reefs." BMC biology 21, no. 1 **2023**: 1-13. <https://doi.org/10.1186/s12915-023-01571-9>
 
