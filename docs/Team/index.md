@@ -23,8 +23,7 @@ Antoni (Toni) Luque is steering the lab to investigate the interplay between the
 Lab Manager. \
 Anuradha (Anu) Agarwal is responsible for implementing, maintaining, and developing the data, computational, and culture processes operating in the lab. Anu received her Bachelor of Science in Mathematics from Rudgers University in 2021 and is completing her Master in Computational Science at San Diego State University (expected in 2023). Anu joined the lab in 2022. She loves learning new languages and painting. \
 [Email](aagarwal3258@sdsu.edu) \
-[Functional resume](link?) \
-[Academic CV](link?) \
+[Functional resume](https://github.com/luquelab/website/blob/github-pages/resumes/anuradha_agarwal_resume.pdf) \
 [LinkedIn](https://www.linkedin.com/in/anuradhagarwal/) 
 
 **Amartya Yalla** \
@@ -33,7 +32,6 @@ Lab Manager Assistant. \
 Amartya Yalla is currently assisting the lab manager to carry and executing operational tasks in the lab. Amartya received his Bachelors in Computer Science from VIT University in 2021 and is completing his Masters in Computational Science at San Diego State University (expected in 2024). He likes swimming and painting. \
 [Email](ayalla8921@sdsu.edu) \
 [Functional resume](https://github.com/luquelab/website/blob/github-pages/resumes/amartya_yalla_resume.pdf) \
-[CV](link?) \
 [LinkedIn](https://www.linkedin.com/in/amartya-yalla/) 
 
 **Sergio Cobo-López** \
@@ -69,7 +67,6 @@ DESCRIPTION.............\
 Master student \
 DESCRIPTION.............\
 [Email](......) \
-[Functional resume](link?) \
 [CV](https://github.com/luquelab/website/blob/github-pages/resumes/aurora_vogel_cv.pdf) \
 [LinkedIn](https://www.linkedin.com/in/aurora-vogel-7b7186196/)
 
