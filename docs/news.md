@@ -8,6 +8,10 @@ parent: Home
 ![picture](visuals/luquelab_newspage_2023-04-11.JPG) 
 ## News 
 
+**[Viral predation pressure on coral reefs](https://doi.org/10.1186/s12915-023-01571-9)** |  April 11, 2023 \
+ ![picture](visuals/News/viral_prediction_pressure_on_coral_reefs.png) \
+The project led by the Lab PI [Antoni Luque](https://scholar.google.com/citations?hl=en&user=ytvnI68AAAAJ&view_op=list_works&sortby=pubdate) was released on [BMC Biology](https://bmcbiol.biomedcentral.com/) titled "[Viral predation pressure on coral reefs](https://doi.org/10.1186/s12915-023-01571-9)". 
+
 **[New Computational tool for Capsids](https://www.biorxiv.org/content/10.1101/2023.02.27.529640v1)** |  March 1, 2023 \
  ![picture](visuals/News/1_new_computational_tool_for_capsids.png) \
 The lab Project led by masters student [Colin Brown](https://www.linkedin.com/in/colin-travis-brown) was released on [BioRxiv](https://www.biorxiv.org/) titled "[pyCapsid: Identifying dominant dynamics and quasi-rigid mechanical units in protein shells](https://www.biorxiv.org/content/10.1101/2023.02.27.529640v1)". The package [pyCapsid](https://luquelab.github.io/pyCapsid/) is available on [GitHub](https://github.com/luquelab/pyCapsid), [Conda](https://anaconda.org/luque_lab/pycapsid) and [PIP](https://pypi.org/project/pyCapsid/) and the package installation steps are described [here](https://luquelab.github.io/pyCapsid/installation/).
