@@ -37,7 +37,7 @@ Principal Investigator, Dr. Antoni Luque, was the first invited speaker in the [
 Principal Investigator, Dr. Antoni Luque, visited the Flinders Accelerator for Microbiome Exploration [(FAME)](https://fame.flinders.edu.au/) at [Flinders University]((https://www.flinders.edu.au/) (Adelaide, Australia) to present the latest progress of the Luque lab in the prediction of viral capsids from metagenomic data. The directors of the center, Professors Rob Edwards and Liz Dinsdale, hosted the research visit.
 
 **[Poster contributions to the Virus of Microbes meeting](https://www.pprpffa.org/)** | July 20, 2022 \
-![picture](visuals/News/6_poster_contributions_to_the_virus_of_microbes_meeting_july 20_2022.jpeg)\
+![picture](visuals/News/6_poster_contributions_to_the_virus_of_microbes_meeting_july_20_2022.jpeg)\
 Postdoctoral researcher, [Dr. Sergio Cobo-López](https://scholar.google.com/citations?hl=en&user=m6m1HV4AAAAJ) presented a poster on his new approach to analyzing transient dynamics and its potential application to viral ecology at the international [Virus of Microbes](https://www.pprpffa.org/) (VoM) meeting, which took place in Guimarães (Portugal). Principal investigator, Dr. Antoni Luque, also presented a poster highlighting the lab's progress in predicting the capsid architecture of viruses from metagenomic data.
 
 **[Talk contribution to the Virus Structure and Assembly Conference](https://www.faseb.org/meetings-and-events/src-events/the-virus-structure-and-assembly-conference)**| June 27, 2022 \
