@@ -20,7 +20,7 @@ Undergraduate student Caitlin Bartels won the Outstanding Scholar Athlete Award 
 
 **[The Promise and Pitfalls of Prophages | April 21, 2023](https://www.biorxiv.org/content/10.1101/2023.04.20.537752v1)** |  April 21, 2023 \
 <img src="visuals/News/1_new_computational_tool_for_capsids.png" width="120"> \
-The project led by the Lab PI [Antoni Luque](https://scholar.google.com/citations?hl=en&user=ytvnI68AAAAJ&view_op=list_works&sortby=pubdate) was released on [BioRxiv](https://www.biorxiv.org/) titled "[The Promise and Pitfalls of Prophages](https://www.biorxiv.org/content/10.1101/2023.04.20.537752v1)" bioRxiv, 2023: 2023-04.
+The project led by the Lab PI [Antoni Luque](https://scholar.google.com/citations?hl=en&user=ytvnI68AAAAJ&view_op=list_works&sortby=pubdate) was released on [BioRxiv](https://www.biorxiv.org/) titled "[The Promise and Pitfalls of Prophages](https://www.biorxiv.org/content/10.1101/2023.04.20.537752v1)".
 
 **[Viral predation pressure on coral reefs](https://doi.org/10.1186/s12915-023-01571-9)** |  April 11, 2023 \
  <img src="visuals/News/viral_prediction_pressure_on_coral_reefs.png" width="150"> \
