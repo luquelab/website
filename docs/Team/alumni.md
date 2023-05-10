@@ -8,7 +8,7 @@ has_children: false
 
 ## Alumni 
 
-**Anuradha Agarwal** \
+### Anuradha Agarwal \
 <img src="images/anu_agarwal.jpg" width="200"> \
 Data Management Specialist at J.P. Morgan. \
 [LinkedIn](https://www.linkedin.com/in/anuradhagarwal/) \
