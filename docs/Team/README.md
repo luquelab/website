@@ -27,9 +27,9 @@ Files:
 
  
 ### Recommended information for prior members:
-+ Display name in bold.
++ Display name using triple hashtag.
 + Use picture from Linkedin or internal (whatever looks better).
-+ Include current position.
++ Include current position in bold.
 + Include LinkedIn and/or other professional websites (e.g., Google Scholar)
 + Include degree/postion obtained/done in the lab. Add year/period.
 + Include one line about the roles, research done, and time. Include deliverables with links (publications, softwares, presentations). Include funding that supported their contribution.
