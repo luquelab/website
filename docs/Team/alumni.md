@@ -10,11 +10,13 @@ has_children: false
 
 **Anuradha Agarwal** \
 <img src="images/anu_agarwal.jpg" width="200"> \
-Lab Manager. \
-Anuradha (Anu) Agarwal is responsible for implementing, maintaining, and developing the data, computational, and culture processes operating in the lab. Anu received her Bachelor of Science in Mathematics from Rudgers University in 2021 and is completing her Master in Computational Science at San Diego State University (expected in 2023). Anu joined the lab in 2022. She loves learning new languages and painting. \
-[Email](aagarwal3258@sdsu.edu) \
-[Functional resume](https://github.com/luquelab/website/blob/github-pages/resumes/anuradha_agarwal_resume.pdf) \
-[LinkedIn](https://www.linkedin.com/in/anuradhagarwal/) 
+Data Management Specialist at J.P. Morgan. \
+[LinkedIn](https://www.linkedin.com/in/anuradhagarwal/) \
+Anuradha (Anu) Agarwal was the lab technician and manager from Janurary 2022 to May 2023. She was responsible for implementing, maintaining, and developing the data, computational, and culture processes operating in the lab. Anu received her Bachelor of Science in Mathematics from Rudgers University in 2021 and her Master in Computational Science at San Diego State University in 2023. She loves learning new languages and painting. \
+Key deliverables while in the lab:
++ Development of extensive [lab documentation and operation processes](https://luquelab.github.io/Athena/courses/)
++ Contribution to publications: [Colin, Agarwal, Luque, bioRxiv, 2023](https://www.biorxiv.org/content/10.1101/2023.02.27.529640v1)
++ Contribution to computational packages: [pyCapsid](https://luquelab.github.io/pyCapsid/) 
 
 **Colin Brown** \
 <img src="images/colin_brown.jpg" width="200"> \
