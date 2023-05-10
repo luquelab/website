@@ -8,6 +8,14 @@ has_children: false
 
 ## Alumni 
 
+**Anuradha Agarwal** \
+<img src="images/anu_agarwal.jpg" width="200"> \
+Lab Manager. \
+Anuradha (Anu) Agarwal is responsible for implementing, maintaining, and developing the data, computational, and culture processes operating in the lab. Anu received her Bachelor of Science in Mathematics from Rudgers University in 2021 and is completing her Master in Computational Science at San Diego State University (expected in 2023). Anu joined the lab in 2022. She loves learning new languages and painting. \
+[Email](aagarwal3258@sdsu.edu) \
+[Functional resume](https://github.com/luquelab/website/blob/github-pages/resumes/anuradha_agarwal_resume.pdf) \
+[LinkedIn](https://www.linkedin.com/in/anuradhagarwal/) 
+
 **Colin Brown** \
 <img src="images/colin_brown.jpg" width="200"> \
 Currently a Research Scientist at [Luque lab](www.luquelab.com). \
