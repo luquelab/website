@@ -8,7 +8,7 @@ has_children: false
 
 ## Alumni 
 
-### Anuradha Agarwal \
+### Anuradha Agarwal 
 <img src="images/anu_agarwal.jpg" width="200"> \
 Data Management Specialist at J.P. Morgan. \
 [LinkedIn](https://www.linkedin.com/in/anuradhagarwal/) \
@@ -18,7 +18,7 @@ Key deliverables while in the lab:
 + Contribution to publications: [Colin, Agarwal, Luque, bioRxiv, 2023](https://www.biorxiv.org/content/10.1101/2023.02.27.529640v1)
 + Contribution to computational packages: [pyCapsid](https://luquelab.github.io/pyCapsid/) 
 
-**Colin Brown** \
+### Colin Brown 
 <img src="images/colin_brown.jpg" width="200"> \
 Currently a Research Scientist at [Luque lab](www.luquelab.com). \
 [LinkedIn]([?](https://www.linkedin.com/in/colin-travis-brown/)) \
