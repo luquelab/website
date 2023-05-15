@@ -1,5 +1,7 @@
+# Description
 This folder organizes the information for the Research page.
 
+# Content
 Files:
 + `index.md` contains the text formatted information to be displayed on the page.
 + `publications.md` contains the list of publications from the lab.
@@ -8,7 +10,7 @@ Files:
 + `softwares.md` contains the list of packages and apps released by the lab.
 + `presentations.md` contains the list of talks, workshops and posters contributed by lab members.
 
-## Instructions
+# Instructions
 
 ### Recommended information for publications:
 Summary section:
@@ -19,6 +21,10 @@ List of publications section:
 + Each publication should include the doi link or a link to the source. 
 + Bold PI's name and the year published.
 + Mention and include links to press releasies or packages associated with the publication.
+
+**Flowchart guide for the instructions** : https://lucid.app/lucidchart/702f43ef-6eca-44e2-8f2e-58a68d160621/edit?beaconFlowId=ED9C27F2F812568B&invitationId=inv_333c27ff-beae-46c5-a6bd-e49e042b1e2d&page=0_0#
+
+<img src="publications_flowchart.png" width="600">
 
 ### Recommended information for funding:
 ...
