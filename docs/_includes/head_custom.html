@@ -12,9 +12,9 @@
   <script src="https://polyfill.io/v4/polyfill.min.js?features=es6"></script>
   <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
-  <!-- CSS styling for the last-updated class -->
+  <!-- CSS styling for the header content -->
   <style>
-    .last-updated {
+    .header-content {
       font-size: small;
       color: #555;
       margin-bottom: 0;
@@ -22,13 +22,18 @@
   </style>
 </head>
 <body>
-  <!-- Your page content here -->
-
   <header>
     <!-- Header content here -->
-
-    <!-- Last Updated -->
-    <p class="last-updated">Last Updated: {{ "now" | date: site.date_format }}</p>
   </header>
+
+  <!-- Your page content here -->
+
+  <!-- Last Updated -->
+  <script>
+    var lastUpdated = document.createElement("p");
+    lastUpdated.className = "header-content";
+    lastUpdated.innerHTML = "Last Updated: " + new Date().toLocaleDateString(undefined, { year: 'numeric', month: 'long', day: 'numeric' });
+    document.querySelector("header").appendChild(lastUpdated);
+  </script>
 </body>
 </html>
