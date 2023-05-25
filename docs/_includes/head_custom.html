@@ -1,39 +1,14 @@
-<!DOCTYPE html>
-<html>
 <head>
-  <!-- Added Mathjax support -->
+
+ <!-- Added Mathjax support -->
   <script>
     window.MathJax = {
       tex: {
-        tags: 'ams'
+      tags: 'ams'
       }
     };
   </script> 
   <script src="https://polyfill.io/v4/polyfill.min.js?features=es6"></script>
   <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
-
-  <!-- CSS styling for the header content -->
-  <style>
-    .header-content {
-      font-size: small;
-      color: #555;
-      margin-bottom: 0;
-    }
-  </style>
+  
 </head>
-<body>
-  <header>
-    <!-- Header content here -->
-  </header>
-
-  <!-- Your page content here -->
-
-  <!-- Last Updated -->
-  <script>
-    var lastUpdated = document.createElement("p");
-    lastUpdated.className = "header-content";
-    lastUpdated.innerHTML = "Last Updated: " + new Date().toLocaleDateString(undefined, { year: 'numeric', month: 'long', day: 'numeric' });
-    document.querySelector("header").appendChild(lastUpdated);
-  </script>
-</body>
-</html>
