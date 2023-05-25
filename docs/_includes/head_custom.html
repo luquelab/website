@@ -18,14 +18,17 @@
       font-size: small;
       color: #555;
       margin-bottom: 0;
-      line-height: 1.2;
     }
   </style>
 </head>
 <body>
   <!-- Your page content here -->
 
-  <!-- Last Updated -->
-  <p class="last-updated">Last Updated: {{ "now" | date: site.date_format }}</p>
+  <header>
+    <!-- Header content here -->
+
+    <!-- Last Updated -->
+    <p class="last-updated">Last Updated: {{ "now" | date: site.date_format }}</p>
+  </header>
 </body>
 </html>
