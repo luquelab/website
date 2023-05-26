@@ -3,18 +3,27 @@
   <script>
     window.MathJax = {
       tex: {
-        tags: 'ams'
+      tags: 'ams'
       }
     };
-  </script>
+  </script> 
   <script src="https://polyfill.io/v4/polyfill.min.js?features=es6"></script>
   <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
-
-  <script>
-    document.addEventListener('DOMContentLoaded', function() {
-      var lastUpdatedElement = document.getElementById('last-updated');
-      var lastUpdatedDate = new Date(document.lastModified);
-      lastUpdatedElement.innerText = 'Last Updated: ' + lastUpdatedDate.toDateString();
-    });
-  </script>
 </head>
+
+<body>
+  <header>
+    <!-- Add your header content here -->
+  </header>
+
+  <main>
+    <!-- Add the code for displaying the last modified date here -->
+    <p>Last modified: {{ page.last_modified_at | date: "%B %d, %Y" }}</p>
+
+    <!-- Add your documentation content here -->
+  </main>
+
+  <footer>
+    <!-- Add your footer content here -->
+  </footer>
+</body>
