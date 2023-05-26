@@ -1,7 +1,6 @@
 title: Luquelab Website 
 
 ### Theme
-# theme: jekyll-theme-cayman
 remote_theme: pmarsceill/just-the-docs
 
 ### Color scheme supports "light" (default) and "dark"
@@ -14,3 +13,4 @@ aux_links:
 plugins:
   - jekyll-last-modified-at
 
+last_modified_at: true
