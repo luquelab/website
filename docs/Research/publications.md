@@ -14,14 +14,20 @@ The lab has published 34 articles, receiving 1581 citations as of April 27, 2023
 
 **LIST OF PUBLICATIONS**
 
+Brown, Colin, Anuradha Agarwal, and **Antoni Luque**. "pyCapsid: Identifying dominant dynamics and quasi-rigid mechanical units in protein shells." Bioinformatics, December 19, **2023**. <https://doi.org/10.1093/bioinformatics/btad761>
+
+
+Papudeshi, Bhavya, Alejandro A. Vega, Cole Souza, Sarah K. Giles, Vijini Mallawaarachchi, Michael J. Roach, Michelle An, Nicole Jacobson, Katelyn McNair, Maria Fernanda Mora, Karina Pastrana, Christopher Leigh, Clarice Cram, Will S. Plewa, Susanna R. Grigson, George Bouras, Przemysław Decewicz, **Antoni Luque**, Lindsay Droit, Scott A. Handley, Anca M. Segall, Elizabeth A. Dinsdale,  Robert A. Edwards. "Host interactions of novel Crassvirales species belonging to multiple families infecting bacterial host, *Bacteroides cellulosilyticus* WH2." Microbial Genomics, 9(9), 001100, **2023**. <https://doi.org/10.1099/mgen.0.001100>
+
+
+Silveira, Cynthia B., Antoni Luque, Andreas F. Haas, Ty NF Roach, Emma E. George, Ben Knowles, Mark Little, Christopher J. Sullivan, Natascha S. Varona, Linda Wegley Kelly, Russel Brainard, Forest Rohwer, Barbara Bailey. "Viral predation pressure on coral reefs." BMC Biology 21, no. 1 **2023**: 1-13. <https://doi.org/10.1186/s12915-023-01571-9>
+
+Podgorski, Jennifer .M., Joshua Podgorski, Lawrence Abad, Deborah Jacobs-Sera, Krista G. Freeman, Colin Brown, Graham Hatfull, **Antoni Luque**, Simon J. White. "A novel stabilization mechanism accommodating genome length variation in evolutionarily related viral capsids." bioRxiv, November 3, **2023**. <https://doi.org/10.1101/2023.11.03.565530>
+
+Varona, Natascha, Poppy Hesketh-Best, Alexandra Stiffler, Sofia Garcia, Yun Scholten, Andreas Haas, Mark Little, Felipe Hernandes Coutinho, Mark Vermeij, **Antoni Luque**, Cynthia Silveira. "Productive viral infections in oligotrophic marine waters." Research Square, June 14, **2023**. <https://doi.org/10.21203/rs.3.rs-3040647/v1>
+
+
 McKerral, Jody C., Bhavya Nalagampalli Papudeshi, Laura K. Inglis, Michael J. Roach, Przemyslaw Decewicz, Katelyn McNair, **Antoni Luque**, Elizabeth A. Dinsdale, and Robert A. Edwards. "The Promise and Pitfalls of Prophages." bioRxiv, **2023**: 2023-04. <https://doi.org/10.1101/2023.04.20.537752>
-
-Silveira, Cynthia B., Antoni Luque, Andreas F. Haas, Ty NF Roach, Emma E. George, Ben Knowles, Mark Little, Christopher J. Sullivan, Natascha S. Varona, Linda Wegley Kelly, Russel Brainard, Forest Rohwer, Barbara Bailey. "Viral predation pressure on coral reefs." BMC biology 21, no. 1 **2023**: 1-13. <https://doi.org/10.1186/s12915-023-01571-9>
-
-Papudeshi, Bhavya, Alejandro A. Vega, Cole Souza, Sarah K. Giles, Vijini Mallawaarachchi, Michael J. Roach, Michelle An, Nicole Jacobson, Katelyn McNair, Maria Fernanda Mora, Karina Pastrana, Christopher Leigh, Clarice Cram, Will S. Plewa, Susanna R. Grigson, George Bouras, Przemysław Decewicz, **Antoni Luque**, Lindsay Droit, Scott A. Handley, Anca M. Segall, Elizabeth A. Dinsdale,  Robert A. Edwards. "Novel crAssphage isolates exhibit conserved gene order and purifying selection of the host specificity protein." bioRxiv, **2023**. <https://doi.org/10.1101/2023.03.05.531146>
-
-
-Brown, Colin, Anuradha Agarwal and **Antoni Luque**. "pyCapsid: Identifying dominant dynamics and quasi-rigid mechanical units in protein shells."bioRxiv, **2023**. <https://doi.org/10.1101/2023.02.27.529640>
 
 
 Hufsky, Franziska, Denis Beslic, Dimitri Boeckaerts, Sebastian Duchene, Enrique González-Tortuero, Andreas J. Gruber, Jiarong Guo, Daan Jansen, John Juma, Kunaphas Kongkitimanon, **Antoni Luque**, Muriel Ritsch, Gabriel Lencioni Lovate, Luca Nishimura, Celia Pas, Esteban Domingo, Emma Hodcroft, Philippe Lemey, Matthew B. Sullivan, Friedemann Webber, Fernando González-Candelas, Sarah Krautwurst, Alba Pérez-Cataluña, Walter Randazzo, Gloria Sánchez, Manja Marz. "The International Virus Bioinformatics Meeting 2022." Viruses 14, no. 5:973, **2022**. <https://doi.org/10.3390/v14050973>
@@ -80,7 +86,3 @@ Reguera, David, **Antoni Luque**, Poornachandra Sekhar Burada, Gerhard Schmid, J
 Carrasco, Carolina, **Antoni Luque**, M. Hernando-Pérez, Roberto Miranda, Jose L. Carrascosa, P. A. Serena, M. De Ridder et al. "Built-in mechanical stress in viral shells." Biophysical Journal 100, 4: 1100-1108, **2011**. <https://doi.org/10.1016/j.bpj.2011.01.008>. [Press note](https://www.eismd.eu/).
 
 **Luque, Antoni**, David Reguera. "The structure of elongated viral capsids." Biophysical Journal, 98:2993--3003, **2010**. <https://doi.org/10.1016/j.bpj.2010.02.051>. [Press note](http://www.ub.edu/web/ub/en/menu_eines/noticies/2010/06/34.html).
-
-**Luque, Antoni**, Roya Zandi, and David Reguera. "Optimal architectures of elongated viruses," Proceedings Of The National Academy Of Sciences, 107:5323-5328, **2010**. https://doi.org/10.1073/pnas.0915122107. [Press note](https://web.ub.edu/en/web/actualitat/w/a-physical-model-describes-the-structures-of-viral-capsids-1).
-
-**A. Luque** and D. Reguera, "Physical origin of the structure of viruses" (Origen fisic de l'estructura dels virus), Omnis Cellula (Catalan magazine), 16:9, **2008**. 
