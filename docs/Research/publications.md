@@ -67,22 +67,22 @@ Knowles, Ben, Barbara Bailey, Lance Boling, Mya Breitbart, Ana Cobian-Guemes, Ja
 
 **Luque, Antoni**, Gungor Ozer, Tamar Schlick. "Correlation among DNA linker length, linker histone concentration, and histone tails in chromatin." Biophysical Journal, 110:2309-2319, **2016**. <https://doi.org/10.1016/j.bpj.2016.04.024>
 
-Knowles, B, CB Silveira, BA Bailey, K Barott, VA Cantu, AG Cobian-Guemes, FH Coutinho, EA Dinsdale, B Felts, KA Furby, E E George, KT Green, G B Gregoracci, A F Haas, J M Haggerty, E R Hester, N Hisakawa, L W Kelly, YW Lim, M Little, **A Luque**, T McDole-Somera, K McNair, L S de Oliveira, S D Quistad, N L Robinett, E Sala, P Salamon, S E Sanchez, S Sandin, G G Z Silva, J Smith, C Sullivan, C Thompson, M J A Vermeij, M Youle, C Young , B Zgliczynski, R Brainard, R A Edwards, J Nulton, F Thompson, F Rohwer. "Lytic to temperate switching of viral communities." Nature, Nature Publishing Group, 531:466-470, **2016**. <https://doi.org/10.1038/nature17193> Press note.
+Knowles, B, CB Silveira, BA Bailey, K Barott, VA Cantu, AG Cobian-Guemes, FH Coutinho, EA Dinsdale, B Felts, KA Furby, E E George, KT Green, G B Gregoracci, A F Haas, J M Haggerty, E R Hester, N Hisakawa, L W Kelly, YW Lim, M Little, **A Luque**, T McDole-Somera, K McNair, L S de Oliveira, S D Quistad, N L Robinett, E Sala, P Salamon, S E Sanchez, S Sandin, G G Z Silva, J Smith, C Sullivan, C Thompson, M J A Vermeij, M Youle, C Young, B Zgliczynski, R Brainard, R A Edwards, J Nulton, F Thompson, F Rohwer. "Lytic to temperate switching of viral communities." Nature, Nature Publishing Group, 531:466-470, **2016**. <https://doi.org/10.1038/nature17193> Press note.
 
 Ozer, Gungor, **Antoni Luque**, Tamar Schlick. "The chromatin fiber: multiscale problems and approaches." Current Opinion In Structural Biology, 31:124-139, 2015. **2015**. <https://doi.org/10.1016/j.sbi.2015.04.002>
 
-**Luque, Antoni**, Rosana Collepardo-Guevara, Sergei Grigoryev, Tamar Schlick. "Dynamic condensation of linker histone C-terminal domain regulates chromatin structure." Nucleic Acids Research, 42:7553-7560, **2014**. <https://doi.org/10.1093/nar/gku491>
+8. **Luque, Antoni**, Rosana Collepardo-Guevara, Sergei Grigoryev, Tamar Schlick. "Dynamic condensation of linker histone C-terminal domain regulates chromatin structure." Nucleic Acids Research, 42:7553-7560, **2014**. <https://doi.org/10.1093/nar/gku491>
 
-Hernando-Pérez, Mercedes, Elena Pascual, María Aznar, Alina Ionel, José R. Castón, **Antoni Luque**, José L. Carrascosa, David Reguera, and Pedro J. de Pablo. "The interplay between mechanics and stability of viral cages." Nanoscale 6, 5: 2702-2709, **2014**.  <https://doi.org/10.1039/C3NR05763A>
+7. Hernando-Pérez, Mercedes, Elena Pascual, María Aznar, Alina Ionel, José R. Castón, **Antoni Luque**, José L. Carrascosa, David Reguera, and Pedro J. de Pablo. "The interplay between mechanics and stability of viral cages." Nanoscale 6, 5: 2702-2709, **2014**.  <https://doi.org/10.1039/C3NR05763A>
 
-**Luque, Antoni**, David Reguera. "Theoretical studies on assembly, physical stability and dynamics of viruses." Structure And Physics Of Viruses, Springer, 553--595, **2013**. <https://doi.org/10.1007/978-94-007-6552-8_19> 
+6. **Luque, Antoni**, David Reguera. "Theoretical studies on assembly, physical stability and dynamics of viruses." Structure And Physics Of Viruses, Springer, 553--595, **2013**. <https://doi.org/10.1007/978-94-007-6552-8_19> 
 
-**Luque, Antoni**, David Reguera, Alexander Morozov, Joseph Rudnick, Robijn Bruinsma. "Physics of shell assembly: Line tension, hole implosion, and closure catastrophe." The Journal of Chemical Physics 136,18:184507, **2012**. <https://doi.org/10.1063/1.4712304>
+5. **Luque, Antoni**, David Reguera, Alexander Morozov, Joseph Rudnick, Robijn Bruinsma. "Physics of shell assembly: Line tension, hole implosion, and closure catastrophe." The Journal of Chemical Physics 136,18:184507, **2012**. <https://doi.org/10.1063/1.4712304>
 
-Aznar, Maria, **Antoni Luque**, David Reguera. "Relevance of capsid structure in the buckling and maturation of spherical viruses." Physical Biology, 9:036003, **2012**. <https://doi.org/10.1088/1478-3975/9/3/036003>
+4. Aznar, Maria, **Antoni Luque**, David Reguera. "Relevance of capsid structure in the buckling and maturation of spherical viruses." Physical Biology, 9:036003, **2012**. <https://doi.org/10.1088/1478-3975/9/3/036003>
 
-Reguera, David, **Antoni Luque**, Poornachandra Sekhar Burada, Gerhard Schmid, J. M. Rubi, Peter Hänggi. "Entropic splitter for particle separation." Physical Review Letters 108, 2: 020604, **2012**. <https://doi.org/10.1103/PhysRevLett.108.020604>
+3. Reguera, David, **Antoni Luque**, Poornachandra Sekhar Burada, Gerhard Schmid, J. M. Rubi, Peter Hänggi. "Entropic splitter for particle separation." Physical Review Letters 108, 2: 020604, **2012**. <https://doi.org/10.1103/PhysRevLett.108.020604>
 
-Carrasco, Carolina, **Antoni Luque**, M. Hernando-Pérez, Roberto Miranda, Jose L. Carrascosa, P. A. Serena, M. De Ridder et al. "Built-in mechanical stress in viral shells." Biophysical Journal 100, 4: 1100-1108, **2011**. <https://doi.org/10.1016/j.bpj.2011.01.008>. [Press note](https://www.eismd.eu/).
+2. Carrasco, Carolina, **Antoni Luque**, M. Hernando-Pérez, Roberto Miranda, Jose L. Carrascosa, P. A. Serena, M. De Ridder et al. "Built-in mechanical stress in viral shells." Biophysical Journal 100, 4: 1100-1108, **2011**. <https://doi.org/10.1016/j.bpj.2011.01.008>. [Press note](https://www.eismd.eu/).
 
-**Luque, Antoni**, David Reguera. "The structure of elongated viral capsids." Biophysical Journal, 98:2993--3003, **2010**. <https://doi.org/10.1016/j.bpj.2010.02.051>. [Press note](http://www.ub.edu/web/ub/en/menu_eines/noticies/2010/06/34.html).
+1. **Luque, Antoni**, David Reguera. "The structure of elongated viral capsids." Biophysical Journal, 98:2993--3003, **2010**. <https://doi.org/10.1016/j.bpj.2010.02.051>. [Press note](http://www.ub.edu/web/ub/en/menu_eines/noticies/2010/06/34.html).
