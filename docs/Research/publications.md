@@ -10,7 +10,7 @@ has_children: false
 
 **SUMMARY**
 
-The lab has published 34 articles, receiving 1581 citations as of April 27, 2023. You can receive notifications of any new publication via the [PI's Google Scholar](https://scholar.google.com/citations?user=ytvnI68AAAAJ&hl=en). 
+The lab has published 34 articles, receiving 1798 citations as of December 26, 2023. You can receive notifications of any new publication via the [PI's Google Scholar](https://scholar.google.com/citations?user=ytvnI68AAAAJ&hl=en). 
 
 **LIST OF PUBLICATIONS**
 
