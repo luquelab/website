@@ -5,8 +5,6 @@ nav_order: 1
 parent: Home
 
 ---
-![picture](visuals/luquelab_newspage_2023-04-11.JPG) 
-## News 
 
 **[Outstanding scholar athlete award](https://arc.sdsu.edu/sportclubs)** |  April 26, 2023 \
  <img src="visuals/News/outstanding_scholar_athlete_award_april_11_2023.jpg" width="150"> \
