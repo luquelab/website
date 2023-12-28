@@ -14,7 +14,7 @@ The lab has published 33 articles, receiving 1798 citations as of December 26, 2
 
 **LIST OF PUBLICATIONS**
 
-The lab members' names are in **bold*.
+Lab members' names are in **bold*.
 
 33. **Brown, Colin**, **Anuradha Agarwal**, and **Antoni Luque**. "pyCapsid: Identifying dominant dynamics and quasi-rigid mechanical units in protein shells." Bioinformatics, December 19, **2023**. <https://doi.org/10.1093/bioinformatics/btad761>
 
