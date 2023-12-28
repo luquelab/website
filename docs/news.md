@@ -7,7 +7,7 @@ parent: Home
 ---
 # Luque Lab News
 
-| [**Luque lab migrates website to GitHub**](#luque-lab-migrates-website-to-github-2023-12-28) | December 28, 2023 |
+| [**The Luque lab migrates its website to GitHub**](#luque-lab-migrates-website-to-github-2023-12-28) | December 28, 2023 |
 | The Luque lab has migrated from Weebly to GitHub to power the new lab website: <https://luquelab.github.io/website>. The website's content is available as a [GitHub repository](https://github.com/luquelab/website) under the [luquelab GitHub organization](https://github.com/luquelab). The new HTML website is a GitHub-page site that uses the [Just the Docs](https://github.com/just-the-docs/just-the-docs) documentation theme for Jekyll. | ![picture](visuals/News/2023-12-28_github-mark.svg) |
 
 
