@@ -9,7 +9,9 @@ last_modified: 2023-05-26
 # Home
 ![home_page](visuals/1_luquelab_homepage_2023-04-10.jpg)
 
-The Luque Lab investigates the physical structure and ecological properties of viruses by combining mathematical and computational models in close collaboration with experimentalists. The lab is part of the [Viral Information Institute (VII)](https://viralization.org/), the [Department of Mathematics and Statistics](https://math.sdsu.edu/) and the [Computational Science Research Center](http://www.csrc.sdsu.edu/) at [San Diego State University](http://www.sdsu.edu/).
+The Luque Lab investigates the physical structure, ecology, and evolution of viruses combining theoretical biophysics, bioinformatics, and predictive modeling in close collaboration with experimentalists. The lab is integrated into the [Department of Biology](https://biology.as.miami.edu/) at the [University of Miami](https://welcome.miami.edu/). The lab was previously part of the [Viral Information Institute (VII)](https://viralization.org/) at [San Diego State University](http://www.sdsu.edu/).
+
+Navigate our [Research](docs/Research/index.md), [Team](docs/Team/index.md), News, or [Contact](/docs/Contact/index.md) for more information.
 
 ## [Lab Documentation](https://luquelab.github.io/Athena/courses/)
 ## [News](https://www.luquelab.com/news.html)
