@@ -5,7 +5,7 @@ nav_order: 1
 parent: Home
 
 ---
-
+# Luque Lab News
 
 | [**Outstanding scholar-athlete award**](#outstanding-scholar-athlete-award-2023-04-26) | April 26, 2023 |
 | Undergraduate student [Caitlin Bartels](Team/index.md/#caitlin-bartels) won the Outstanding Scholar Athlete Award at the [SDSU Sports Clubs 2023](https://arc.sdsu.edu/sportclubs) Awards Banquet. Caitlin was selected out of hundreds of athletes across 22 different sports for this recognition, representing the Women’s Club Water Polo team. The award goes to the athlete who excelled in their respective sport, demonstrated incredible academic achievements, and was involved in on-campus and off-campus extracurricular activities. | <img src="visuals/News/outstanding_scholar_athlete_award_april_11_2023.jpg" width="150"> |
