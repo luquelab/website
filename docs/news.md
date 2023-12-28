@@ -10,7 +10,7 @@ parent: Home
 | [**The Luque lab migrates its website to GitHub**](#luque-lab-migrates-website-to-github-2023-12-28) | December 28, 2023 |
 | The Luque lab has migrated its website from Weebly to GitHub to power the new lab website: <https://luquelab.github.io/website>. The website's content is available as a [GitHub repository](https://github.com/luquelab/website) under the [luquelab GitHub organization](https://github.com/luquelab). The new HTML website is a GitHub-page site that uses the [Just the Docs](https://github.com/just-the-docs/just-the-docs) documentation theme for Jekyll. Housing the website in GitHub facilitates version control, integration with other lab repositories and documentation, and a great environment to train new lab members to use GitHub right after joining the team. | ![picture](visuals/News/2023-12-28_github-mark.svg) |
 
-| [**The Luque lab moves to Miami**](#luque-lab-moves-to-miami-2023-08-15) | December 28, 2023 |
+| [**The Luque lab moves to Miami**](#luque-lab-moves-to-miami-2023-08-15) | August 15, 2023 |
 | The Luque lab has [officially joined](https://biology.as.miami.edu/people/meet-our-new-faculty/index.html) the [Department of Biology](https://biology.as.miami.edu) at the [University of Miami](https://welcome.miami.edu). After eight years (since 2015) of forming part of the Viral Information Institute at San Diego State University, it was time to start a new adventure, offering more resources and opportunities for the scientific and educational mission of the lab. | ![picture](visuals/News/3_Invited_seminar_at_um_september_21_2022.png) |
 
 
