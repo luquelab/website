@@ -6,16 +6,13 @@ has_children: true
 last_modified: 2023-05-26
 ---
 
-# Home
 ![home_page](visuals/1_luquelab_homepage_2023-04-10.jpg)
 
-The Luque Lab investigates the physical structure, ecology, and evolution of viruses combining theoretical biophysics, bioinformatics, and predictive modeling in close collaboration with experimentalists. The lab is integrated into the [Department of Biology](https://biology.as.miami.edu/) at the [University of Miami](https://welcome.miami.edu/). The lab was previously part of the [Viral Information Institute (VII)](https://viralization.org/) at [San Diego State University](http://www.sdsu.edu/).
+The Luque Lab investigates the physical structure, ecology, and evolution of viruses combining theoretical biophysics, bioinformatics, and predictive modeling in close collaboration with experimentalists. The lab moved to the [Department of Biology](https://biology.as.miami.edu/) at the [University of Miami](https://welcome.miami.edu/) in Fall 2023 after nearly eight years forming part of the [Viral Information Institute (VII)](https://viralization.org/) at [San Diego State University](http://www.sdsu.edu/).
 
-Navigate our [Research](Research/index.md), [Team](Team/index.md), News, or [Contact](Contact/index.md) for more information.
+Navigate our [Research](Research/index.md), [Team](Team/index.md), [News](news.md), or [Contact](Contact/index.md) pages for more information.
 
-## [Lab Documentation](https://luquelab.github.io/Athena/courses/)
-## [News](https://www.luquelab.com/news.html)
-# Latest News Updates
+### News Highlights
 
 **[Outstanding scholar athlete award](https://arc.sdsu.edu/sportclubs)** |  April 26, 2023 \
  <img src="visuals/News/outstanding_scholar_athlete_award_april_11_2023.jpg" width="150"> \
@@ -29,5 +26,5 @@ The project led by the Lab PI [Antoni Luque](https://scholar.google.com/citation
  <img src="visuals/News/viral_prediction_pressure_on_coral_reefs.png" width="150"> \
 The project led by the Lab PI [Antoni Luque](https://scholar.google.com/citations?hl=en&user=ytvnI68AAAAJ&view_op=list_works&sortby=pubdate) was released on [BMC Biology](https://bmcbiol.biomedcentral.com/) titled "[Viral predation pressure on coral reefs](https://doi.org/10.1186/s12915-023-01571-9)". 
 
-
+*Visit our [News](news.md) page to explore more news from the lab.*
 
