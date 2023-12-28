@@ -18,7 +18,6 @@ Lab members' names are in **bold*.
 
 33. **Brown, Colin**, **Anuradha Agarwal**, and **Antoni Luque**. "pyCapsid: Identifying dominant dynamics and quasi-rigid mechanical units in protein shells." Bioinformatics, December 19, **2023**. <https://doi.org/10.1093/bioinformatics/btad761>
 
-
 32. Papudeshi, Bhavya, Alejandro A. Vega, Cole Souza, Sarah K. Giles, Vijini Mallawaarachchi, Michael J. Roach, Michelle An, Nicole Jacobson, Katelyn McNair, Maria Fernanda Mora, Karina Pastrana, Christopher Leigh, Clarice Cram, Will S. Plewa, Susanna R. Grigson, George Bouras, Przemysław Decewicz, **Antoni Luque**, Lindsay Droit, Scott A. Handley, Anca M. Segall, Elizabeth A. Dinsdale,  Robert A. Edwards. "Host interactions of novel Crassvirales species belonging to multiple families infecting bacterial host, *Bacteroides cellulosilyticus* WH2." Microbial Genomics, 9(9), 001100, **2023**. <https://doi.org/10.1099/mgen.0.001100>
 
 31. Silveira, Cynthia B., **Antoni Luque**, Andreas F. Haas, Ty NF Roach, Emma E. George, Ben Knowles, Mark Little, Christopher J. Sullivan, Natascha S. Varona, Linda Wegley Kelly, Russel Brainard, Forest Rohwer, Barbara Bailey. "Viral predation pressure on coral reefs." BMC Biology 21, no. 1 **2023**: 1-13. <https://doi.org/10.1186/s12915-023-01571-9>
@@ -29,9 +28,7 @@ Lab members' names are in **bold*.
 
 28. McKerral, Jody C., Bhavya Nalagampalli Papudeshi, Laura K. Inglis, Michael J. Roach, Przemyslaw Decewicz, Katelyn McNair, **Antoni Luque**, Elizabeth A. Dinsdale, and Robert A. Edwards. "The Promise and Pitfalls of Prophages." bioRxiv, **2023**: 2023-04. <https://doi.org/10.1101/2023.04.20.537752>
 
-
 27. Hufsky, Franziska, Denis Beslic, Dimitri Boeckaerts, Sebastian Duchene, Enrique González-Tortuero, Andreas J. Gruber, Jiarong Guo, Daan Jansen, John Juma, Kunaphas Kongkitimanon, **Antoni Luque**, Muriel Ritsch, Gabriel Lencioni Lovate, Luca Nishimura, Celia Pas, Esteban Domingo, Emma Hodcroft, Philippe Lemey, Matthew B. Sullivan, Friedemann Webber, Fernando González-Candelas, Sarah Krautwurst, Alba Pérez-Cataluña, Walter Randazzo, Gloria Sánchez, Manja Marz. "The International Virus Bioinformatics Meeting 2022." Viruses 14, no. 5:973, **2022**. <https://doi.org/10.3390/v14050973>
-
 
 26. **Lee, Diana Y.**, **Caitlin Bartels**, Katelyn McNair, Robert A. Edwards, Manal A. Swairjo, and **Antoni Luque**. "Predicting the capsid architecture of phages from metagenomic data." Computational and Structural Biotechnology Journal, 20:721-732, **2022**. <https://doi.org/10.1016/j.csbj.2021.12.032>. Press release: ["Math is Magical."](https://sciences.sdsu.edu/math-is-magical/)
 
