@@ -11,7 +11,7 @@ last_modified: 2023-05-26
 
 The Luque Lab investigates the physical structure, ecology, and evolution of viruses combining theoretical biophysics, bioinformatics, and predictive modeling in close collaboration with experimentalists. The lab is integrated into the [Department of Biology](https://biology.as.miami.edu/) at the [University of Miami](https://welcome.miami.edu/). The lab was previously part of the [Viral Information Institute (VII)](https://viralization.org/) at [San Diego State University](http://www.sdsu.edu/).
 
-Navigate our [Research](docs/Research/index.md), [Team](docs/Team/index.md), News, or [Contact](/docs/Contact/index.md) for more information.
+Navigate our [Research](Research/index.md), [Team](Team/index.md), News, or [Contact](Contact/index.md) for more information.
 
 ## [Lab Documentation](https://luquelab.github.io/Athena/courses/)
 ## [News](https://www.luquelab.com/news.html)
