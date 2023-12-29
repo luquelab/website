@@ -30,11 +30,8 @@ has_children: false
 | [**Fanwei (Ashley) Meng**](#ashley-meng) | Undergraduate Student and Research Assistant  <br> **Software Engineer at Warner Bros. Discovery** since 2021 |
 | <img src="images/ashely_meng.jpeg" width="200"> <br> <sub> Picture from 2019 </sub> <br> [LinkedIn](https://www.linkedin.com/in/fanwei-meng-1018/) | Description TBD.  | 
 
-
-### Luke Turner
-<img src="images/luke_turner.PNG" width="200"> \
-Description : \
-[Google Scholar]
+| [**Luke Turner**](#luke-turner) | Undergraduate Student and Research Assistant  <br> **Optical Engineer at [Airy Optics, Inc.](https://www.linkedin.com/company/airy-optics/)** since 2022 |
+| <img src="images/luke_turner.PNG" width="200"> <br> <sub> Picture from 2019 </sub> <br> [LinkedIn](https://www.linkedin.com/in/luke-turner-509b87102/) | Description TBD.  | 
 
 ### Emily Jasien
 <img src="images/emily_jasien.png" width="200"> \
