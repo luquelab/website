@@ -13,7 +13,7 @@ Navigate our [News](news.md), [Research](Research/index.md), [Team](Team/index.m
 
 ### Highlighted News
 
-+ [The Luque lab migrates its website to GitHub](News/index.md/#luque-lab-migrates-website-to-github-2023-12-28) | December 28, 2023
++ [The Luque lab migrates its website to GitHub](News/index.md/#luque-lab-migrates-website-to-github-2023-12-28) &nbsp; December 28, 2023
 
 + [Publication of pyCapsid in Bioinformatics](News/index.md/#publication-of-pycapsid-in-bioinformatics-2023-12-19) | December 19, 2023
 
