@@ -2,7 +2,7 @@
 layout: default
 title: News
 nav_order: 1
-parent: Home
+has_children: false
 
 ---
 # Luque Lab News
