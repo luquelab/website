@@ -33,16 +33,9 @@ has_children: false
 | [**Luke Turner**](#luke-turner) | Undergraduate Student and Research Assistant  <br> **Optical Engineer at [Airy Optics, Inc.](https://www.linkedin.com/company/airy-optics/)** since 2022 |
 | <img src="images/luke_turner.PNG" width="200"> <br> <sub> Picture from 2019 </sub> <br> [LinkedIn](https://www.linkedin.com/in/luke-turner-509b87102/) | Description TBD.  | 
 
-### Emily Jasien
-<img src="images/emily_jasien.png" width="200"> \
-Description :  \
-[Google Scholar] \
-Master in Applied Mathematics
-Thesis: Modeling the transition between lytic and lysogenic behavior in a bacteria-phage system
+| [**Emily Jasien**](#emily-jasien) | Master Student and Research Assistant  <br> Non-disclosable Information |
+| <img src="images/emily_jasien.png" width="200"> <br> <sub> Picture from 2017 </sub> <br> [LinkedIn](https://www.linkedin.com/in/emily-jasien-759a9a13b/) | Emily Jasien joined the lab to work on her research thesis *Modeling the transition between lytic and lysogenic behavior in a bacteria-phage system*. She completed her Master's in Applied Mathematics from San Diego State University in 2017.  | 
 
-### Marcelo Sevilla
-<img src="images/marcelosevilla.jpeg" width="200"> \
-Description :
-[Google Scholar] \
-Email: msevilla1984@gmail.com
-[Linkedin](https://www.linkedin.com/in/marcelo-sevilla-74536450/) 
+| [**Marcelo Sevilla**](#marcelo-sevilla) | Master Student and Research Assistant  <br> **Business System Analyst at [TechFlow, Inc](https://www.linkedin.com/company/techflow-inc./)** since 2023 |
+| <img src="images/marcelosevilla.jpeg" width="200"> <br> <sub> Picture from 2019 </sub> <br> [LinkedIn](https://www.linkedin.com/in/marcelo-sevilla-74536450/) | Marcelo joined the lab in 2015 to study the major capsid protein of viral capsids as part of his Master in Computational Science. | 
+
