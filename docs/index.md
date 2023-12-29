@@ -7,9 +7,9 @@ has_children: false
 
 ![home_page](visuals/1_luquelab_homepage_2023-04-10.jpg)
 
-### Description
+### Luque Lab
 
-The Luque Lab investigates the physical structure, ecology, and evolution of viruses, combining theoretical biophysics, bioinformatics, and predictive modeling in close collaboration with experimentalists. The lab moved to the [Department of Biology at the University of Miami](https://biology.as.miami.edu/) in Fall 2023 after nearly eight years forming part of the [Viral Information Institute (VII)](https://viralization.org/), the Computational Science Research Center, and the Department of Mathematics & Statistics at San Diego State University.
+Our lab investigates the physical structure, ecology, and evolution of viruses, combining theoretical biophysics, bioinformatics, and predictive modeling in close collaboration with experimentalists. The lab moved to the [Department of Biology at the University of Miami](https://biology.as.miami.edu/) in Fall 2023 after nearly eight years forming part of the [Viral Information Institute (VII)](https://viralization.org/), the Computational Science Research Center, and the Department of Mathematics & Statistics at San Diego State University.
 
 Navigate our [News](news.md), [Research](Research/index.md), [Team](Team/index.md), and [Contact](Contact/index.md) pages for more information.
 
