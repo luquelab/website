@@ -9,11 +9,7 @@ has_children: false
 ## Alumni 
 
 | [**Anuradha Agarwal**](#anuradha-agarwal) | 2022–2023 |
-| Former lab technician and manager from January 2022 to May 2023. She was responsible for implementing, maintaining, and developing the data, computational, and culture processes operating in the lab. Anu received her Bachelor of Science in Mathematics from Rudgers University in 2021 and her Master in Computational Science from San Diego State University in 2023. She loves learning new languages and painting.
-Key deliverables while in the lab:
-+ Development of extensive [lab documentation and operation processes](https://luquelab.github.io/Athena/courses/)
-+ Contribution to publications: [Colin, Agarwal, Luque, bioRxiv, 2023](https://www.biorxiv.org/content/10.1101/2023.02.27.529640v1)
-+ Contribution to computational packages: [pyCapsid](https://luquelab.github.io/pyCapsid/) | <img src="images/anu_agarwal.jpg" width="200"> |
+| Former lab technician and manager from January 2022 to May 2023. She was responsible for implementing, maintaining, and developing the data, computational, and culture processes operating in the lab. Anu received her Bachelor of Science in Mathematics from Rudgers University in 2021 and her Master in Computational Science from San Diego State University in 2023. She loves learning new languages and painting. | <img src="images/anu_agarwal.jpg" width="200"> |
 
 ### Anuradha Agarwal 
 <img src="images/anu_agarwal.jpg" width="200"> \
