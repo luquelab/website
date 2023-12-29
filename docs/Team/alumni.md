@@ -9,7 +9,8 @@ has_children: false
 ## Alumni 
 
 | [**Anuradha Agarwal**](#anuradha-agarwal) | Lab Technician 2022–2023 |
-| <img src="images/anu_agarwal.jpg" width="200"> | Former lab technician and manager from January 2022 to May 2023. She was responsible for implementing, maintaining, and developing the data, computational, and culture processes operating in the lab. Anu received her Bachelor of Science in Mathematics from Rudgers University in 2021 and her Master in Computational Science from San Diego State University in 2023. She loves learning new languages and painting. | 
+| <img src="images/anu_agarwal.jpg" width="200"> | Former lab technician and manager from January 2022 to May 2023. In the lab, Anuradha (Anu) was responsible for implementing, maintaining, and developing the data, computational, and culture processes operating in the lab. She developed extensive protocols and lab documentation and contributed to the first release and publication of pyCapsid. Anu received her Bachelor of Science in Mathematics from Rudgers University in 2021 and her Master in Computational Science from San Diego State University in 2023. While in the lab, she loved learning new languages and painting. | 
+| [LinkedIn](https://www.linkedin.com/in/anuradhagarwal/) | **Data Management Specialist at J.P. Morgan** since 2023 |
 
 | [**Anuradha Agarwal**](#anuradha-agarwal) | 2022–2023 |
 | Former lab technician and manager from January 2022 to May 2023. She was responsible for implementing, maintaining, and developing the data, computational, and culture processes operating in the lab. Anu received her Bachelor of Science in Mathematics from Rudgers University in 2021 and her Master in Computational Science from San Diego State University in 2023. She loves learning new languages and painting. | <img src="images/anu_agarwal.jpg" width="200"> |
