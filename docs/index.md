@@ -5,9 +5,9 @@ nav_order: 1
 has_children: false
 ---
 
-![home_page](images/hpv_small_polygon_mix_Thomas_Splettstoesser_cropped.jpg)
+# Luque Lab
 
-### Luque Lab
+![home_page](images/hpv_small_polygon_mix_Thomas_Splettstoesser_cropped.jpg)
 
 Our lab investigates the physical structure, ecology, and evolution of viruses, combining theoretical biophysics, bioinformatics, and predictive modeling in close collaboration with experimentalists. The lab moved to the [Department of Biology at the University of Miami](https://biology.as.miami.edu/) in Fall 2023 after nearly eight years forming part of the [Viral Information Institute (VII)](https://viralization.org/), the Computational Science Research Center, and the Department of Mathematics & Statistics at San Diego State University.
 
