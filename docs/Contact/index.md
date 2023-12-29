@@ -5,13 +5,10 @@ nav_order: 4
 has_children: false
 ---
 
-## Contact 
-![picture](images/3_luquelab_contactpage_2023-04-10.jpg) \
-[Department of Mathematics and Statistics](http://www.math.sdsu.edu/) \
-[Viral Information Institute](http://viralization.org/) \
-San Diego State University \
-5500 Campanile Drive, GMCS 509 \
-San Diego, CA 92182-7720 USA
+## Contact
+[Department of Biology at the University of Miami](https://biology.as.miami.edu/) \
+Cox Science Center \
+1301 Memorial Drive \
+Coral Gables, FL 33146 \
+USA
 
-Email: aluque@sdsu.edu \
-Phone: +1 619-594-6191
