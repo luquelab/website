@@ -14,14 +14,6 @@ has_children: false
 | [**Anuradha Agarwal**](#anuradha-agarwal) | Luque Lab Technician 2022–2023  <br> **Data Management Specialist at J.P. Morgan** since 2023 |
 | <img src="images/anu_agarwal.jpg" width="200"> <br> <sub> Picture from 2023 </sub> <br> [LinkedIn](https://www.linkedin.com/in/anuradhagarwal/) | Anuradha (Anu) was a lab technician and manager at the Luque lab from January 2022 to May 2023. In the lab, Anuradha (Anu) was responsible for implementing, maintaining, and developing the data, computational, and culture processes operating in the lab. She developed extensive protocols and lab documentation and contributed to the first release and publication of pyCapsid. Anu received her Bachelor of Science in Mathematics from Rudgers University in 2021 and her Master in Computational Science from San Diego State University in 2023. While in the lab, she loved learning new languages and painting. | 
 
-
-### Colin Brown 
-<img src="images/colin_brown.jpg" width="200"> \
-**Currently a Research Scientist at [Luque lab](www.luquelab.com)** \
-[LinkedIn]([?](https://www.linkedin.com/in/colin-travis-brown/)) \
-Master in Physics 2023 \
-Colin Brown was a research assistant and research scientist in the lab from 2020-2023. Colin developed his Master thesis research in the lab, developing geometrical and physical models to investigate the protein shell protecting the genome of viruses. He published part of his work in [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.02.27.529640v1) and [Microorganisms](https://doi.org/10.3390/microorganisms8121944) and as an [installable python software package](http://github.com/luquelab/pyCapsid). While in the lab, he was funded by the [Gordon Betty Moore Foundation](https://doi.org/10.37807/GBMF9871) and the [National Science Foundation](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1951678&HistoricalAwards=false).
-
 ### Kevin Joiner
 <img src="images/kevin_joiner.jpg" width="200"> \
 **Currently a Research Scientist at the [Naval Information Warfare Center (NIWC)](https://www.niwcpacific.navy.mil/careers/)**
