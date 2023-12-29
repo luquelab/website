@@ -27,10 +27,9 @@ has_children: false
 | [**Max Anthenelli**](#max-anthenelli) | Undergraduate Student and Research Assistant  <br> **Ph.D. Student in Education Policy and Leadership at the University of Maryland** since 2022 |
 | <img src="images/max_anthenelli.jpeg" width="200"> <br> <sub> Picture from 2019 </sub> <br> [LinkedIn](https://www.linkedin.com/in/max-anthenelli-642b8a116/) | Description TBD.  | 
 
-### Ashley Meng
-<img src="images/ashely_meng.jpeg" width="200"> \
-Description :  \
-[Google Scholar]
+| [**Fanwei (Ashley) Meng**](#ashley-meng) | Undergraduate Student and Research Assistant  <br> **Software Engineer at Warner Bros. Discovery** since 2021 |
+| <img src="images/ashely_meng.jpeg" width="200"> <br> <sub> Picture from 2019 </sub> <br> [LinkedIn](https://www.linkedin.com/in/fanwei-meng-1018/) | Description TBD.  | 
+
 
 ### Luke Turner
 <img src="images/luke_turner.PNG" width="200"> \
