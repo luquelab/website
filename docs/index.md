@@ -5,7 +5,7 @@ nav_order: 1
 has_children: false
 ---
 
-![home_page](visuals/1_luquelab_homepage_2023-04-10.jpg)
+![home_page](images/hpv_small_polygon_mix_Thomas_Splettstoesser_cropped.jpg)
 
 ### Luque Lab
 
