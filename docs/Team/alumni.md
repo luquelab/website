@@ -18,29 +18,9 @@ has_children: false
 | [**Kevin Joiner**](#kevin-joiner) | Ph.D. Student and Research Assistant-Scientist 2015–2019  <br> **Research Scientist at the [Naval Information Warfare Center (NIWC)](https://www.niwcpacific.navy.mil/careers/)** since 2020 |
 | <img src="images/kevin_joiner.jpg" width="200"> <br> <sub> Picture from 2022 </sub> <br> [Google Scholar]([https://scholar.google.com/citations?user=ytvnI68AAAAJ&hl=en](https://scholar.google.com/citations?hl=en&user=uHiSo1UAAAAJ)) | Kevin joined the lab as a Ph.D. student in 2015. In the lab, he developed new computational and mathematical approaches to investigate the interaction of phages (viruses of bacteria) and their bacterial hosts in mucus, producing one first-author publication in *Scientific Reports*. Kevin's position was supported by his DoD SMART Scholarship, the National Science Foundation S-STEM program, and the CSUPERB program. He completed his joined Ph.D. in Computational Science from San Diego State University & Claremont Graduate University in 2019.  | 
 
-### Marcelo Sevilla
-<img src="images/marcelosevilla.jpeg" width="200"> \
-Description :
-[Google Scholar] \
-Email: msevilla1984@gmail.com
-[Linkedin](https://www.linkedin.com/in/marcelo-sevilla-74536450/) 
+| [**Nicole Tomassi**](#nicole-tomassi) | Undergraduate Student and Research Assistant  <br> **Ph.D. Student at Boston University** since 2021 |
+| <img src="images/nicole_tomassi.png" width="200"> <br> <sub> Picture from 2022 </sub> <br> [LinkedIn](https://www.linkedin.com/in/nicole-tomassi-62151714b/) | Description TBD.  | 
 
-### Emily Jasien
-<img src="images/emily_jasien.png" width="200"> \
-Description :  \
-[Google Scholar] \
-Master in Applied Mathematics
-Thesis: Modeling the transition between lytic and lysogenic behavior in a bacteria-phage system
-
-### Ashley Meng
-<img src="images/ashely_meng.jpeg" width="200"> \
-Description :  \
-[Google Scholar]
-
-### Nicole Tomassi
-<img src="images/nicole_tomassi.png" width="200"> \
-Description :  \
-[Google Scholar]
 
 ### James Hellfeier
 <img src="images/james_hellfeier.PNG" width="200"> \
@@ -52,7 +32,26 @@ Description : \
 Description : \
 [Google Scholar]
 
+### Ashley Meng
+<img src="images/ashely_meng.jpeg" width="200"> \
+Description :  \
+[Google Scholar]
+
 ### Luke Turner
 <img src="images/luke_turner.PNG" width="200"> \
 Description : \
 [Google Scholar]
+
+### Emily Jasien
+<img src="images/emily_jasien.png" width="200"> \
+Description :  \
+[Google Scholar] \
+Master in Applied Mathematics
+Thesis: Modeling the transition between lytic and lysogenic behavior in a bacteria-phage system
+
+### Marcelo Sevilla
+<img src="images/marcelosevilla.jpeg" width="200"> \
+Description :
+[Google Scholar] \
+Email: msevilla1984@gmail.com
+[Linkedin](https://www.linkedin.com/in/marcelo-sevilla-74536450/) 
