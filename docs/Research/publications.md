@@ -10,7 +10,7 @@ has_children: false
 
 **SUMMARY**
 
-The lab has published 33 articles, receiving 1798 citations as of December 26, 2023. You can receive notifications of any new publication via the Principal Investigator's [Google Scholar](https://scholar.google.com/citations?user=ytvnI68AAAAJ&hl=en). 
+The lab has published 34 articles, receiving 1824 citations as of January 16, 2024. You can receive notifications of any new publication via the Principal Investigator's [Google Scholar](https://scholar.google.com/citations?user=ytvnI68AAAAJ&hl=en). 
 
 **LIST OF PUBLICATIONS**
 
@@ -50,7 +50,7 @@ The **names** in bold highlight the researchers who have contributed to publicat
 
 18. Silveira, Cynthia B., Felipe H. Coutinho, Giselle S. Cavalcanti, Sean Benler, Michael P. Doane, Elizabeth A. Dinsdale, Robert A. Edwards, Ronaldo B. Francini-Filho, Cristiane C. Thompson, **Antoni Luque**. "Genomic and ecological attributes of marine bacteriophages encoding bacterial virulence genes." *BMC Genomics*, 21:1-11, **2020**. <https://doi.org/10.1186/s12864-020-6523-2>
 
-17. Bowers, Janet, Kathy Williams, **Antoni Luque**, Devon Quick, Mary Beisiegel, Jody Sorensen, Joan Kunz, Diane Smith, Lori Kayes. "Paradigms for creating activities that integrate mathematics and science topics." *Journal Of Mathematics And Science: Collaborative Explorations*, 16:6, **2020**. <https://doi.org/10.25891/14f6-by82>.
+17. Bowers, Janet, Kathy Williams, **Antoni Luque**, Devon Quick, Mary Beisiegel, Jody Sorensen, Joan Kunz, Diane Smith, Lori Kayes. "Paradigms for creating activities that integrate mathematics and science topics." *Journal of Mathematics and Science: Collaborative Explorations*, 16:6, **2020**. <https://doi.org/10.25891/14f6-by82>.
 
 16. Silveira, Cynthia B., **Antoni Luque**, Ty NF Roach, Helena Villela, Adam Barno, Kevin Green, Brandon Reyes, Esther Rubio-Portillo, Tram Le, Spencer Mead, Mark Hatay, Mark JA Vermeij, Yuichiro Takeshita, Andreas Haas, Barbara Bailey, Forest Rohwer. "Biophysical and physiological processes causing oxygen loss from coral reefs," *eLife*, 8: e49114, **2019**. <https://doi.org/10.7554/eLife.49114>. ELife Digest: ["Starving corals of oxygen,"](elifesciences.org/digests/49114/starving-corals-of-oxygen](https://elifesciences.org/digests/49114/starving-corals-of-oxygen).
 
