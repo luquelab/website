@@ -14,9 +14,11 @@ The lab has published 33 articles, receiving 1798 citations as of December 26, 2
 
 **LIST OF PUBLICATIONS**
 
-Lab members' names are in **bold**.
+The **names** in bold highlight the researchers who have contributed to publications as part of the Luque lab.
 
-33. **Brown, Colin**, **Anuradha Agarwal**, and **Antoni Luque**. "pyCapsid: Identifying dominant dynamics and quasi-rigid mechanical units in protein shells." *Bioinformatics*, 40(1), btad761, **2024**. <https://doi.org/10.1093/bioinformatics/btad761>
+34. **Brown, Colin**, **Anuradha Agarwal**, and **Antoni Luque**. "pyCapsid: Identifying dominant dynamics and quasi-rigid mechanical units in protein shells." *Bioinformatics*, 40(1), btad761, **2024**. <https://doi.org/10.1093/bioinformatics/btad761>
+
+33. **Cobo-López, Sergio**, **Matthew Witt**, Forest L. Rohwer, **Antoni Luque**. "Emerging dynamic regimes and tipping points from finite empirical principles." *bioRxiv*, December 27, **2023**. <https://doi.org/10.1101/2023.12.27.573307>
 
 32. Papudeshi, Bhavya, Alejandro A. Vega, Cole Souza, Sarah K. Giles, Vijini Mallawaarachchi, Michael J. Roach, Michelle An, Nicole Jacobson, Katelyn McNair, Maria Fernanda Mora, Karina Pastrana, Christopher Leigh, Clarice Cram, Will S. Plewa, Susanna R. Grigson, George Bouras, Przemysław Decewicz, **Antoni Luque**, Lindsay Droit, Scott A. Handley, Anca M. Segall, Elizabeth A. Dinsdale,  Robert A. Edwards. "Host interactions of novel Crassvirales species belonging to multiple families infecting bacterial host, *Bacteroides cellulosilyticus* WH2." Microbial Genomics, 9(9), 001100, **2023**. <https://doi.org/10.1099/mgen.0.001100>
 
