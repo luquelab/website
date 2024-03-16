@@ -12,6 +12,16 @@ has_children: true
 | [Google Scholar](https://scholar.google.com/citations?user=ytvnI68AAAAJ&hl=en) | [Email](antoni.luque@miami.edu) &nbsp; [Functional resume](https://github.com/luquelab/website/blob/github-pages/resumes/Luque_functional_resume_2022-11-17.pdf) &nbsp;  [Academic CV](https://github.com/luquelab/website/blob/github-pages/resumes/Luque_academic_CV_2022-10-26.pdf) &nbsp;  [ORCID](https://orcid.org/0000-0002-5817-4914) |
 
 ### Jose-Bernard Sedalo
+<img src = "images/profile_Sedalo_2024_03_10_Flatrock_Temprorary.jpeg" width="200">\
+Reasearch Assistant\
+[Email](jss3466@miami.edu)
+[LinkedIn](https://www.linkedin.com/in/jose-bernard-sedalo-2128a015b/?originalSubdomain=gh)
+### Abelardo Aguilar
+<img src = "images/profile_Aguilar_2024-02-29_Baltimore_cropped.png.jpg" width="200">\
+PHD Student\
+[Email](abelardoaguilar@miami.edu)
+[LinkedIn](https://www.linkedin.com/in/abelardo-aguilar-camara-158ba2263/?originalSubdomain=mx)
+
 
 
 ### Amartya Yalla
