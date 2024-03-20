@@ -8,15 +8,15 @@ has_children: true
 ## Team 
 
 | [**Antoni Luque, Ph.D.**](#antoni-luque) | **Associate Professor at the University of Miami** since 2023 |
-| <img src="images/profile_Luque_2023-08-15_UM_cropped.png" width="200" height="500"> <br> <sub> Picture from 2023 </sub> <br> [LinkedIn](https://www.linkedin.com/in/antoni-luque-phd/) | Antoni (Toni) is steering the lab to investigate the interplay between the physics and evolution of viruses. He received his Ph.D. in Physics in 2011 from the University of Barcelona and trained as a postdoc in Computational Biology at New York University from 2012 to 2014. Toni joined San Diego State University as an Assistant Professor in 2015 and was promoted to Associate Professor in 2021. He was hired as an Associate Professor at the University of Miami in 2023. He is a big F.C. Barcelona soccer fan and loves good food. |
+| <img src="images/profile_Luque_2023-08-15_UM_cropped.png" width="200" height="200"> <br> <sub> Picture from 2023 </sub> <br> [LinkedIn](https://www.linkedin.com/in/antoni-luque-phd/) | Antoni (Toni) is steering the lab to investigate the interplay between the physics and evolution of viruses. He received his Ph.D. in Physics in 2011 from the University of Barcelona and trained as a postdoc in Computational Biology at New York University from 2012 to 2014. Toni joined San Diego State University as an Assistant Professor in 2015 and was promoted to Associate Professor in 2021. He was hired as an Associate Professor at the University of Miami in 2023. He is a big F.C. Barcelona soccer fan and loves good food. |
 | [Google Scholar](https://scholar.google.com/citations?user=ytvnI68AAAAJ&hl=en) | [Email](antoni.luque@miami.edu) &nbsp; [Functional resume](https://github.com/luquelab/website/blob/github-pages/resumes/Luque_functional_resume_2022-11-17.pdf) &nbsp;  [Academic CV](https://github.com/luquelab/website/blob/github-pages/resumes/Luque_academic_CV_2022-10-26.pdf) &nbsp;  [ORCID](https://orcid.org/0000-0002-5817-4914) |
 
 | [**Jose-Bernard Sedalo**](#jose-Bernard-Sedalo) | **Reasearch Assistant** since 2023 |
-| <img src="images/profile_Sedalo_2024_03_10_Flatrock_Temprorary.jpeg" width="200" height="500"> <br> <sub> Picture from 2024 </sub> <br> [LinkedIn](https://www.linkedin.com/in/jose-bernard-sedalo-2128a015b/?originalSubdomain=gh) | Description ...  |
+| <img src="images/profile_Sedalo_2024_03_10_Flatrock_Temprorary.jpeg" width="200" height="200"> <br> <sub> Picture from 2024 </sub> <br> [LinkedIn](https://www.linkedin.com/in/jose-bernard-sedalo-2128a015b/?originalSubdomain=gh) | Description ...  |
 | [Email](jss3466@miami.edu) |  |
 
 | [**Abelardo Aguilar**](#abelardo-aguilar) | **PHD Student** since 2023 |
-| <img src="images/profile_Aguilar_2024-02-29_Baltimore_cropped.png.jpg" width="200" height="500"> <br> <sub> Picture from 2024 </sub> <br> [LinkedIn](https://www.linkedin.com/in/abelardo-aguilar-camara-158ba2263/?originalSubdomain=mx) | Description ...  |
+| <img src="images/profile_Aguilar_2024-02-29_Baltimore_cropped.png.jpg" width="200" height="200"> <br> <sub> Picture from 2024 </sub> <br> [LinkedIn](https://www.linkedin.com/in/abelardo-aguilar-camara-158ba2263/?originalSubdomain=mx) | Description ...  |
 | [Email](abelardoaguilar@miami.edu) |  |
 
 ### Amartya Yalla
