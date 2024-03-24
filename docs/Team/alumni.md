@@ -13,7 +13,23 @@ has_children: false
 
 | [**Anuradha Agarwal**](#anuradha-agarwal) | Lab Technician 2022–2023  <br> **Data Management Specialist at J.P. Morgan** since 2023 |
 | <img src="images/anu_agarwal.jpg" width="200"> <br> <sub> Picture from 2023 </sub> <br> [LinkedIn](https://www.linkedin.com/in/anuradhagarwal/) | Anuradha (Anu) was a lab technician and manager at the Luque lab from January 2022 to May 2023. In the lab, Anuradha (Anu) was responsible for implementing, maintaining, and developing the data, computational, and culture processes operating in the lab. She developed extensive protocols and lab documentation and contributed to the first online release and publication of pyCapsid in *Bioinformatics*. Anu's position was supported by research funds from the National Science Foundation and the Gordon and Betty Moore Foundation. Anu received her Bachelor of Science in Mathematics from Rudgers University in 2021 and her Master in Computational Science from San Diego State University in 2023. While in the lab, she loved learning new languages and painting. | 
+| [**Amartya Yalla**](#amartya-yalla) | Master Students And Assistant Lab Manager <br> **TBD** #"since ...." |
+| <img src="images/amartya.jpg" width="200"> <br> <sub> Picture from 2023 </sub> <br> [LinkedIn](https://www.linkedin.com/in/amartya-yalla/) | Amartya, a Masters student studying computational science at San Diego State University(SDSU), joined the lab in 2023 as an assistant lab manager, helping to carry out and execute operational tasks. He will be completing his masters degree in 2024. | 
 
+| [**James Mullinix**](#james-mullinix) | PHD Student 2015-2020 <br> **TBD** #"since ...." |
+| <img src="images/james_mullinix.png" width="200"> <br> <sub> Picture from ... </sub> <br> [LinkedIn](https://www.linkedin.com/in/jamesmullinix/) | Description TBD.  | 
+
+| [**Aurora Vogel**](#aurora-vogel) | Masters Student 2021-2023 <br> **TBD** #"since ...." |
+| <img src="images/aurora_vogel.jpg" width="200"> <br> <sub> Picture from ... </sub> <br> [LinkedIn](https://www.linkedin.com/in/aurora-vogel-7b7186196/) | Description TBD.  | 
+
+| [**Brandon Ricafrente**](#brandon-ricafrente) | Masters Student 2020-2023 <br> **TBD** #"since ...." |
+| <img src="images/brandon_ricafrente.jpg" width="200"> <br> <sub> Picture from ... </sub> <br> [LinkedIn](https://www.linkedin.com/in/brandon-ricafrente-777806132/) | Brandon was a physics masters student who joined Luque Labs in 2020 to to study viral capsid assembly, after obtaining a B.S. in Physics with a minor in Math from University of California Riverside (UCR).  | 
+
+| [**Caitlin Bartels**](#caitlin-bartels) |Undergraduate Student 2020-2023 <br> **Clinical Medical Assistant at [OC Spine and Sport Medicine](https://www.linkedin.com/company/ocspineandsports/)** #"since 2023" |
+| <img src="images/caitlin_bartels.jpg" width="200"> <br> <sub> Picture from ... </sub> <br> [LinkedIn](https://www.linkedin.com/in/caitlin-bartels-a384891aa) | Caitlin was Biology undergrad at San Diego State University (SDSU) who joined Luque Labs in 2020 in the amidst of the Covid-19 pandemic, wanting to learn more about viruses. During on her time in the lab, she worked on a wide array of projects specifically related to capsid architecture and herpesvirales latency. She is currenty on tract to apply to medical school this coming cycle.  |
+
+| [**Vaishnavi Patel**](#vaishnavi-patel) |Undergraduate Student ...-... <br> **TBD** #"since ..." |
+| <img src="images/vaishnavi_patel.jpg" width="200"> <br> <sub> Picture from ... </sub> <br> [LinkedIn](#link) | Description TBD.  |
 
 | [**Kevin Joiner**](#kevin-joiner) | Ph.D. Student and Research Assistant-Scientist 2015–2019  <br> **Research Scientist at the [Naval Information Warfare Center (NIWC)](https://www.niwcpacific.navy.mil/careers/)** since 2020 |
 | <img src="images/kevin_joiner.jpg" width="200"> <br> <sub> Picture from 2022 </sub> <br> [Google Scholar]([https://scholar.google.com/citations?user=ytvnI68AAAAJ&hl=en](https://scholar.google.com/citations?hl=en&user=uHiSo1UAAAAJ)) | Kevin joined the lab as a Ph.D. student in 2015. In the lab, he developed new computational and mathematical approaches to investigate the interaction of phages (viruses of bacteria) and their bacterial hosts in mucus, producing one first-author publication in *Scientific Reports*. Kevin's position was supported by his DoD SMART Scholarship, the National Science Foundation S-STEM program, and the CSUPERB program. He completed his joined Ph.D. in Computational Science from San Diego State University & Claremont Graduate University in 2019.  | 
@@ -38,4 +54,7 @@ has_children: false
 
 | [**Marcelo Sevilla**](#marcelo-sevilla) | Master Student and Research Assistant  <br> **Business System Analyst at [TechFlow, Inc](https://www.linkedin.com/company/techflow-inc./)** since 2023 |
 | <img src="images/marcelosevilla.jpeg" width="200"> <br> <sub> Picture from 2019 </sub> <br> [LinkedIn](https://www.linkedin.com/in/marcelo-sevilla-74536450/) | Marcelo joined the lab in 2015 to study the major capsid protein of viral capsids as part of his Master in Computational Science. | 
+
+
+
 
