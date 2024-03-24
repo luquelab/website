@@ -16,13 +16,13 @@ has_children: true
 | [Email](srgcobo@gmail.com) &nbsp; | [CV](https://github.com/luquelab/website/blob/github-pages/resumes/sergio_cobo_cv.pdf) &nbsp; [Functional resume](#link) &nbsp; |
 
 | [**Abelardo Aguilar**](#abelardo-aguilar) | **PHD Student** since 2023 |
-| <img src="images/profile_Aguilar_2024-02-29_Baltimore_cropped.png.jpg" width="200" height="283"> <br> <sub> Picture from 2024 </sub> <br> [LinkedIn](https://www.linkedin.com/in/abelardo-aguilar-camara-158ba2263/?originalSubdomain=mx) | Description ...  |
-| [Email](abelardoaguilar@miami.edu) &nbsp; | [CV](#link) &nbsp; [Functional resume](#link) &nbsp;  |
+| <img src="images/profile_Aguilar_2024-02-29_Baltimore_cropped.png.jpg" width="200"> <br> <sub> Picture from 2024 </sub> <br> [LinkedIn](https://www.linkedin.com/in/abelardo-aguilar-camara-158ba2263/?originalSubdomain=mx) | Description TBD |
+| [Email](abelardoaguilar@miami.edu) &nbsp; | [CV](#link) &nbsp; [Functional resume](#link) &nbsp; |
 
 | [**Diana Lee**](#diana-lee) | **PHD Student** since 2016 |
-| <img src="images/diana_lee.jpg" width="200"> <br> <sub> Picture from ... </sub> <br> [LinkedIn](https://www.linkedin.com/in/diana-lee-98198a35/) | Description..... |
-| [Email](lee9@rohan.sdsu.edu) &nbsp;   | [CV](#link) &nbsp; [Functional resume](#link) &nbsp; |
+| <img src="images/diana_lee.jpg" width="200"> <br> <sub> Picture from .... </sub> <br> [LinkedIn](https://www.linkedin.com/in/diana-lee-98198a35/) | Description TBD |
+| [Email](lee9@rohan.sdsu.edu) &nbsp; | [CV](#link) &nbsp; [Functional resume](#link) &nbsp; |
 
 | [**Jose-Bernard Sedalo**](#jose-bernard-sedalo) | **Reasearch Assistant** since 2023 |
-| <img src="images/profile_Sedalo_2024_03_10_Flatrock_Temprorary.jpeg" width="200" height="432.9"> <br> <sub> Picture from 2024 </sub> <br> [LinkedIn](https://www.linkedin.com/in/jose-bernard-sedalo-2128a015b/?originalSubdomain=gh) | Description ...  |
-| [Email](jss3466@miami.edu) &nbsp; | [CV](#link) &nbsp; [Functional resume](#link) &nbsp;  |
+| <img src="images/profile_Sedalo_2024_03_10_Flatrock_Temprorary.jpeg" width="200"> <br> <sub> Picture from 2024 </sub> <br> [LinkedIn](https://www.linkedin.com/in/jose-bernard-sedalo-2128a015b/?originalSubdomain=gh) | Description TBD |
+| [Email](jss3466@miami.edu) &nbsp; | [CV](#link) &nbsp; [Functional resume](#link) &nbsp; |
