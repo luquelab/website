@@ -16,8 +16,8 @@ has_children: true
 | [Email](srgcobo@gmail.com) &nbsp; | [CV](https://github.com/luquelab/website/blob/github-pages/resumes/sergio_cobo_cv.pdf) &nbsp; [Functional resume](#link) &nbsp; |
 
 | [**Abelardo Aguilar**](#abelardo-aguilar) | **PHD Student** since 2023 |
-| <img src="images/profile_Aguilar_2024-02-29_Baltimore_cropped.png.jpg" width="200"> <br> <sub> Picture from 2024 </sub> <br> [LinkedIn](https://www.linkedin.com/in/abelardo-aguilar-camara-158ba2263/?originalSubdomain=mx) | Description TBD |
-| [Email](abelardoaguilar@miami.edu) &nbsp; | [CV](#link) &nbsp; [Functional resume](#link) &nbsp; |
+| <img src="images/profile_Aguilar_2024-02-29_Baltimore_cropped.png.jpg" width="200"> <br> <sub> Picture from 2024 </sub> <br> [LinkedIn](https://www.linkedin.com/in/abelardo-aguilar-camara-158ba2263/?originalSubdomain=mx) | Abelardo Aguilar is a PhD student at the University of Miami, working in Luque’s lab. His research focuses on the evolution and physics of viruses, using computational modeling and bioinformatics. Abelardo's work includes studying icosahedral capsids and developing evolutionary analysis tools. Previously, at the National Autonomous University of Mexico (UNAM), he researched the evolution of single-stranded DNA viruses. Besides research, Abelardo enjoys gaming on Linux and following Cruz Azul FC. |
+| [Email](abelardoaguilar@miami.edu) &nbsp; | [CV](https://github.com/luquelab/website/blob/github-pages/resumes/Abelardo_Aguilar_academic_CV_2024-3-11.pdf) &nbsp; [Functional resume](https://github.com/luquelab/website/blob/github-pages/resumes/Abelardo_Aguilar_functional_resume_2024-3-11.pdf) &nbsp; |
 
 | [**Diana Lee**](#diana-lee) | **PHD Student** since 2016 |
 | <img src="images/diana_lee.jpg" width="200"> <br> <sub> Picture from .... </sub> <br> [LinkedIn](https://www.linkedin.com/in/diana-lee-98198a35/) | Description TBD |
