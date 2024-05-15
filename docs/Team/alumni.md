@@ -24,7 +24,7 @@ has_children: false
 | <img src="images/brandon_ricafrente.jpg" width="200"> <br> <sub> Picture from ... </sub> <br> [LinkedIn](https://www.linkedin.com/in/brandon-ricafrente-777806132/) | Brandon was a physics masters student who joined Luque Labs in 2020 to to study viral capsid assembly, after obtaining a B.S. in Physics with a minor in Math from University of California Riverside (UCR).  | 
 
 | [**James Mullinix**](#james-mullinix) | PHD Student 2015-2020 <br> **TBD** <!--since .... --> |
-| <img src="images/james_mullinix.png" width="200"> <br> <sub> Picture from ... </sub> <br> [LinkedIn](https://www.linkedin.com/in/jamesmullinix/) | Description TBD.  | 
+| <img src="images/james_mullinix.jpeg" width="200"> <br> <sub> Picture from ... </sub> <br> [LinkedIn](https://www.linkedin.com/in/jamesmullinix/) | Description TBD.  | 
 
 | [**Aurora Vogel**](#aurora-vogel) | Masters Student 2021-2023 <br> **TBD** <!--since .... --> |
 | <img src="images/aurora_vogel.jpg"  style="width:200px;"> <br> <sub> Picture from ... </sub> <br> [LinkedIn](https://www.linkedin.com/in/aurora-vogel-7b7186196/) | Description TBD.  | 
@@ -39,7 +39,7 @@ has_children: false
 | <img src="images/nicole_tomassi.png" width="200"> <br> <sub> Picture from 2022 </sub> <br> [LinkedIn](https://www.linkedin.com/in/nicole-tomassi-62151714b/) | Description TBD.  | 
 
 | [**James Hellfeier**](#james-hellfeier) | Undergraduate Student and Research Assistant  <br> **Senior Analyst, Manager at [LPL Financial](https://www.lpl.com/)** since 2021 |
-| <img src="images/james_hellfeier.PNG" width="200"> <br> <sub> Picture from 2019 </sub> <br> [LinkedIn](https://www.linkedin.com/in/james-hellfeier/) | Description TBD.  | 
+| <img src="images/james_hellfeier.jpeg" width="200"> <br> <sub> Picture from 2019 </sub> <br> [LinkedIn](https://www.linkedin.com/in/james-hellfeier/) | Description TBD.  | 
 
 | [**Max Anthenelli**](#max-anthenelli) | Undergraduate Student and Research Assistant  <br> **Ph.D. Student in Education Policy and Leadership at the University of Maryland** since 2022 |
 | <img src="images/max_anthenelli.jpeg" width="200"> <br> <sub> Picture from 2019 </sub> <br> [LinkedIn](https://www.linkedin.com/in/max-anthenelli-642b8a116/) | Description TBD.  | 
@@ -48,10 +48,10 @@ has_children: false
 | <img src="images/ashely_meng.jpeg" width="200"> <br> <sub> Picture from 2019 </sub> <br> [LinkedIn](https://www.linkedin.com/in/fanwei-meng-1018/) | Description TBD.  | 
 
 | [**Luke Turner**](#luke-turner) | Undergraduate Student and Research Assistant  <br> **Optical Engineer at [Airy Optics, Inc.](https://www.linkedin.com/company/airy-optics/)** since 2022 |
-| <img src="images/luke_turner.PNG" width="200"> <br> <sub> Picture from 2019 </sub> <br> [LinkedIn](https://www.linkedin.com/in/luke-turner-509b87102/) | Description TBD.  | 
+| <img src="images/luke_turner.jpeg" width="200"> <br> <sub> Picture from 2019 </sub> <br> [LinkedIn](https://www.linkedin.com/in/luke-turner-509b87102/) | Description TBD.  | 
 
 | [**Emily Jasien**](#emily-jasien) | Master Student and Research Assistant  <br> Non-disclosable Information |
-| <img src="images/emily_jasien.png" width="200"> <br> <sub> Picture from 2017 </sub> <br> [LinkedIn](https://www.linkedin.com/in/emily-jasien-759a9a13b/) | Emily Jasien joined the lab to work on her research thesis *Modeling the transition between lytic and lysogenic behavior in a bacteria-phage system*. She completed her Master's in Applied Mathematics from San Diego State University in 2017.  | 
+| <img src="images/emily_jasien.jpeg" width="200"> <br> <sub> Picture from 2017 </sub> <br> [LinkedIn](https://www.linkedin.com/in/emily-jasien-759a9a13b/) | Emily Jasien joined the lab to work on her research thesis *Modeling the transition between lytic and lysogenic behavior in a bacteria-phage system*. She completed her Master's in Applied Mathematics from San Diego State University in 2017.  | 
 
 | [**Marcelo Sevilla**](#marcelo-sevilla) | Master Student and Research Assistant  <br> **Business System Analyst at [TechFlow, Inc](https://www.linkedin.com/company/techflow-inc./)** since 2023 |
 | <img src="images/marcelosevilla.jpeg" width="200"> <br> <sub> Picture from 2019 </sub> <br> [LinkedIn](https://www.linkedin.com/in/marcelo-sevilla-74536450/) | Marcelo joined the lab in 2015 to study the major capsid protein of viral capsids as part of his Master in Computational Science. | 
