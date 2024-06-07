@@ -23,7 +23,7 @@ has_children: true
 | <img src="images/diana_lee.jpg" width="200"> <br> <sub> Picture from .... </sub> <br> [LinkedIn](https://www.linkedin.com/in/diana-lee-98198a35/) | Description TBD |
 | [Email](lee9@rohan.sdsu.edu) &nbsp; | [CV](#link) &nbsp; [Functional resume](#link) &nbsp; |
 
-| [**Jose-Bernard Sedalo**](#jose-bernard-sedalo) | **Reasearch Assistant** since 2023 |
+| [**Jose-Bernard Sedalo**](#jose-bernard-sedalo) | **Research Assistant** since 2023 |
 | <img src="images/profile_Sedalo_2024-03-26_toppel.jpg" width="200"> <br> <sub> Picture from 2024 </sub> <br> [LinkedIn](https://www.linkedin.com/in/jose-bernard-sedalo-2128a015b/?originalSubdomain=gh) | Jose Bernard is an undergraduate at the University of Miami, majoring in Computer Science and minoring in Mathematics and Biology. He is captivated by the potential of viral capsid structures in the field of nanotechnology and aspires to use deep learning tools to better predict and understand capsid behaviour. Outside the lab, he enjoys working out and watching Formula 1. |
 | [Email](jss3466@miami.edu) &nbsp; | [CV](#link) &nbsp; [Functional resume](#link) &nbsp; |
 
