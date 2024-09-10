@@ -8,6 +8,9 @@ has_children: false
 
 ## Alumni 
 
+| [**Diana Lee**](#diana-lee) | PHD Student 2016-2024 <br>**TBD**|
+| <img src="images/diana_lee.jpg" width="200"> <br> <sub> Picture from .... </sub> <br> [LinkedIn](https://www.linkedin.com/in/diana-lee-98198a35/) | Description TBD|
+
 | [**Colin Brown**](#colin-brown) | Master Student and Research Assistant-Scientist 2020–2023  <br> **Junior Software Test Engineer at Holland AI LLC** since 2023 |
 | <img src="images/colin_brown.jpg" width="200"> <br> <sub> Picture from 2023 </sub> <br> [LinkedIn]([?](https://www.linkedin.com/in/colin-travis-brown/)) | Colin was a research assistant and research scientist at the Luque lab from April 2020 to August 2023. Colin joined the lab to do research as part of his Master's thesis in physics, and he expanded his scope by developing geometrical and physical models to investigate the protein shell protecting the genome of viruses. He led the release and publication of pyCapsid in *Bioinformatics* and contributed to two additional research projects on viral capsids, yielding two co-author publications in *Microorganisms* and *bioRxiv*. Colin's position was supported by research funds from the National Science Foundation and the Gordon and Betty Moore Foundation. He received his Master's in Physics from San Diego State University in 2023. |
 
@@ -55,7 +58,3 @@ has_children: false
 
 | [**Marcelo Sevilla**](#marcelo-sevilla) | Master Student and Research Assistant  <br> **Business System Analyst at [TechFlow, Inc](https://www.linkedin.com/company/techflow-inc./)** since 2023 |
 | <img src="images/marcelosevilla.jpeg" width="200"> <br> <sub> Picture from 2019 </sub> <br> [LinkedIn](https://www.linkedin.com/in/marcelo-sevilla-74536450/) | Marcelo joined the lab in 2015 to study the major capsid protein of viral capsids as part of his Master in Computational Science. | 
-
-
-
-
