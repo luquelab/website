@@ -16,7 +16,7 @@ has_children: true
 | [Email](srgcobo@gmail.com) &nbsp; | [Academic CV](https://github.com/luquelab/website/blob/github-pages/resumes/sergio_cobo_cv.pdf) &nbsp; [Functional resume](#link) &nbsp; |
 
 | [**Omer Nadel**](#omer-nadel) | **Postdoc** since 2024 |
-| <img src = "images/omer_nadel.jpg" width="200"><br><sub>Picture from 2023</sub><br>[Linkedin](https://www.linkedin.com/in/omer-nadel-946b90231/) | Omer Nadel is a postdoctoral researcher at the University of Miami in Antoni Luque’s lab, and at the San Diego State University in the Forest Rohwer’s lab. His research focuses on finding novel families of viruses and the implications of their evolutionary origins. Omer received his Ph.D. in Marine Microbiology in 2024 from the Technion - Israel Institute of Technology. In his free time, he like to play football and chase waves.|
+| <img src = "images/omer_nadel.png" width="200"><br><sub>Picture from 2023</sub><br>[Linkedin](https://www.linkedin.com/in/omer-nadel-946b90231/) | Omer Nadel is a postdoctoral researcher at the University of Miami in Antoni Luque’s lab, and at the San Diego State University in the Forest Rohwer’s lab. His research focuses on finding novel families of viruses and the implications of their evolutionary origins. Omer received his Ph.D. in Marine Microbiology in 2024 from the Technion - Israel Institute of Technology. In his free time, he like to play football and chase waves.|
 | [Email](omernadel@gmail.com) &nbsp; | [Academic CV](https://github.com/luquelab/website/blob/github-pages/resumes/omer_nadel_cv_9_4_2024.pdf) &nbsp; [Functional Resume](https://github.com/luquelab/website/blob/github-pages/resumes/omer_nadel_resume_9_4_2024.pdf) &nbsp;  |
 
 | [**Michael Cioffi**](#michael-cioffi) | **Postdoc** since 2024 |
