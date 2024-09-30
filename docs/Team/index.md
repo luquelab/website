@@ -7,7 +7,7 @@ has_children: true
 
 ## Team 
 
-| [**Antoni Luque, Ph.D.**](#antoni-luque) | **Associate Professor at the University of Miami** since 2023 <br><sub>***Organizational Role***:Principal Investigator</sub><br><sub>***Research Interest***:Physical Virology </sub>  |
+| [**Antoni Luque, Ph.D.**](#antoni-luque) | **Associate Professor at the University of Miami** since 2023 <br>***Organizational Role***:Principal Investigator<br>***Research Interest***:Physical Virology  |
 | <img src="images/profile_Luque_2023-08-15_UM_cropped.jpeg" width="200" height="257"> <br> <sub> Picture from 2023 </sub> <br> [LinkedIn](https://www.linkedin.com/in/antoni-luque-phd/) | Antoni (Toni) is steering the lab to investigate the interplay between the physics and evolution of viruses. He received his Ph.D. in Physics in 2011 from the University of Barcelona and trained as a postdoc in Computational Biology at New York University from 2012 to 2014. Toni joined San Diego State University as an Assistant Professor in 2015 and was promoted to Associate Professor in 2021. He was hired as an Associate Professor at the University of Miami in 2023. He is a big F.C. Barcelona soccer fan and loves good food. |
 | [Email](antoni.luque@miami.edu) &nbsp;| [Academic CV](https://github.com/luquelab/website/blob/github-pages/resumes/Luque_academic_CV_2022-10-26.pdf) &nbsp; [Functional resume](https://github.com/luquelab/website/blob/github-pages/resumes/Luque_functional_resume_2022-11-17.pdf) &nbsp; [Google Scholar](https://scholar.google.com/citations?user=ytvnI68AAAAJ&hl=en)  &nbsp;  [ORCID](https://orcid.org/0000-0002-5817-4914) &nbsp; |
 
