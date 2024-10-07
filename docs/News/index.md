@@ -6,8 +6,8 @@ has_children: false
 
 ---
 # Luque Lab News
-| [**Student Research Symposium(Envision)**](#student-research-symposium-2024-10-4)| October 4, 2024 | 
-| Undergraduate student,[**Jose-Bernard Sedalo**](Team/index.md/#jose-bernard-sedalo) displayed his project on identification of disassembly units in viral capsids. Jose took home third place in the STEM category for his presentation.| ![picture](images/2024-10-4.jpeg) |
+| [**Student Research Symposium(Envision)**](#student-research-symposium-2024-10-4) | October 4, 2024 | 
+| Undergraduate student,[**Jose-Bernard Sedalo**](Team/index.md/#jose-bernard-sedalo) displayed his project on identification of disassembly units in viral capsids. Jose took home third place in the STEM category for his presentation. | ![picture](images/2024-10-4.jpeg) |
 
 | [**The Luque lab migrates its website to GitHub**](#luque-lab-migrates-website-to-github-2023-12-28) | December 28, 2023 |
 | The Luque lab has migrated its website from Weebly to GitHub to power the new lab website: <https://luquelab.github.io/website>. The website's content is available as a [GitHub repository](https://github.com/luquelab/website) under the [luquelab GitHub organization](https://github.com/luquelab). The new HTML website is a GitHub-page site that uses the [Just the Docs](https://github.com/just-the-docs/just-the-docs) documentation theme for Jekyll. Housing the website in GitHub facilitates version control, integration with other lab repositories and documentation, and a great environment to train new lab members to use GitHub right after joining the team. | ![picture](images/2023-12-28_github-mark.svg) |
