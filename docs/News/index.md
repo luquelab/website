@@ -9,7 +9,6 @@ has_children: false
 | [**Spanish Network of Physical Virology (BioFiViNet)**](#spanish-network-of-physical-virology-2025-03-20) | March 20, 2025 | 
 | PI, [**Antoni Luque**](Team/index.md/#antoni-luque) delivered the opening plenary at the VII Spanish Network of Physical Virology (BioFiViNet), a network he helped establish in 2010 as a PhD student under Prof. Dr. David Reguera at the University of Barcelona, one of its initial organizers. | <img src = "images/profile_Luque_2023-08-15_UM_cropped.jpeg" width =100 height =100> |
 
-
 | [**Student Research Symposium(Envision)**](#student-research-symposium-2024-10-4) | October 4, 2024 | 
 | Undergraduate student,[**Jose-Bernard Sedalo**](Team/index.md/#jose-bernard-sedalo) displayed his project on identification of disassembly units in viral capsids. Jose took home third place in the STEM category for his presentation. | <img src = "images/2024-10-4_student_symposium.jpeg" width =100 height =100> |
 
@@ -21,7 +20,6 @@ has_children: false
 
 | [**The Luque lab moves to Miami**](#luque-lab-moves-to-miami-2023-08-15) | August 15, 2023 |
 | The Luque lab has [officially joined](https://biology.as.miami.edu/people/meet-our-new-faculty/index.html) the [Department of Biology](https://biology.as.miami.edu) at the [University of Miami](https://welcome.miami.edu). After eight years (since 2015) of forming part of the Viral Information Institute at San Diego State University, it was time to start a new adventure, offering more resources and opportunities for the scientific and educational mission of the lab. | ![picture](images/3_Invited_seminar_at_um_september_21_2022.png) |
-
 
 | [**Outstanding scholar-athlete award**](#outstanding-scholar-athlete-award-2023-04-26) | April 26, 2023 |
 | Undergraduate student [Caitlin Bartels](Team/index.md/#caitlin-bartels) won the Outstanding Scholar Athlete Award at the [SDSU Sports Clubs 2023](https://arc.sdsu.edu/sportclubs) Awards Banquet. Caitlin was selected out of hundreds of athletes across 22 different sports for this recognition, representing the Women’s Club Water Polo team. The award goes to the athlete who excelled in their respective sport, demonstrated incredible academic achievements, and was involved in on-campus and off-campus extracurricular activities. | <img src="images/outstanding_scholar_athlete_award_april_11_2023.jpg" width="150"> |
