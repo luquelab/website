@@ -6,6 +6,7 @@ has_children: false
 
 ---
 # Luque Lab News
+
 | [**Spanish Network of Physical Virology (BioFiViNet)**](#spanish-network-of-physical-virology-2025-03-20) | March 20, 2025 | 
 | PI, [**Antoni Luque**](Team/index.md/#antoni-luque) delivered the opening plenary at the VII Spanish Network of Physical Virology (BioFiViNet), a network he helped establish in 2010 as a PhD student under Prof. Dr. David Reguera at the University of Barcelona, one of its initial organizers. | <img src = "images/profile_Luque_2023-08-15_UM_cropped.jpeg" width =100 height =100> |
 
