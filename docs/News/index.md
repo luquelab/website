@@ -8,7 +8,7 @@ has_children: false
 # Luque Lab News
 
 | [**Spanish Network of Physical Virology (BioFiViNet)**](#spanish-network-of-physical-virology-2025-03-20) | March 20, 2025 | 
-| PI, [**Antoni Luque**](Team/index.md/#antoni-luque) delivered the opening plenary at the VII Spanish Network of Physical Virology (BioFiViNet), a network he helped establish in 2010 as a PhD student under Prof. Dr. David Reguera at the University of Barcelona, one of its initial organizers. | <img src = "images/profile_Luque_2023-08-15_UM_cropped.jpeg" width =100 height =100> |
+| PI, [**Antoni Luque**](Team/index.md/#antoni-luque) delivered the opening plenary at the VII Spanish Network of Physical Virology [BioFiViNet](https://sites.google.com/view/guzmanresearch/physvirspain), a network he helped establish in 2010 as a PhD student under Prof. Dr. David Reguera at the University of Barcelona, one of its initial organizers. | <img src = "images/2025-03-21_BioFiNet_memoire.jpeg" width =200 height =100> |
 
 | [**Student Research Symposium(Envision)**](#student-research-symposium-2024-10-4) | October 4, 2024 | 
 | Undergraduate student,[**Jose-Bernard Sedalo**](Team/index.md/#jose-bernard-sedalo) displayed his project on identification of disassembly units in viral capsids. Jose took home third place in the STEM category for his presentation. | <img src = "images/2024-10-4_student_symposium.jpeg" width =100 height =100> |
