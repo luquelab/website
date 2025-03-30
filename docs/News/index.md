@@ -7,8 +7,14 @@ has_children: false
 ---
 # Luque Lab News
 
+| [**Graduate and Post-doctoral Research Symposium**](#graduate-and-post-doctoral-research-symposium-2025-03-25) | March 25, 2025 |
+|PhD student, [**Abelardo Aguilar**](Team/index.md/#abelardo-aguilar) and postdocs, [**Omer Nadel**](Teams/index.md/#omer-nadel)  and [**Michael Cioffi**](Teams/index.md/##michael-cioffi), represented the Luque lab at the 2025  University of Miami Graduate Student and Postdoctoral Research Symposium hosted in the Shalala Center. Abelardo displayed his work on finding the evolutionary connection between HK97 and encapsulins as a poster. At the same time, Omer and Mike delivered oral presentations highlighting their works on reconstructing small novel capsids and creating simulations of T=3 capsids, respectively.| <img src = "images/2025-03-25_research_symposium.jpg" width =100 height =100>  |
+
 | [**Spanish Network of Physical Virology (BioFiViNet)**](#spanish-network-of-physical-virology-2025-03-20) | March 20, 2025 | 
 | PI, [**Antoni Luque**](Team/index.md/#antoni-luque) delivered the opening plenary at the VII Spanish Network of Physical Virology [BioFiViNet](https://sites.google.com/view/guzmanresearch/physvirspain), a network he helped establish in 2010 as a PhD student under Prof. Dr. David Reguera at the University of Barcelona, one of its initial organizers. | <img src = "images/2025-03-21_BioFiNet_memoire.jpeg" width =400 height =200> |
+
+| [**Guest Speaker for Career Development Presentation**](#guest-speaker-for-career-development-presentation)| March 5, 2025 |
+| Research associate, [**Lucas Carbajal**](#lucas-carbajal) was invited to a classroom for career development seminar course (BIL 299), where he presented his career path from a recent graduate to research associate within the Luque lab. | <img src = "images/2025-03-05_bil_299_seminar_group.jpeg" width =150 height =100> |  
 
 | [**Student Research Symposium(Envision)**](#student-research-symposium-2024-10-4) | October 4, 2024 | 
 | Undergraduate student,[**Jose-Bernard Sedalo**](Team/index.md/#jose-bernard-sedalo) displayed his project on identification of disassembly units in viral capsids. Jose took home third place in the STEM category for his presentation. | <img src = "images/2024-10-4_student_symposium.jpeg" width =100 height =100> |
