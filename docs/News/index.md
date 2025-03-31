@@ -13,6 +13,9 @@ has_children: false
 | [**Spanish Network of Physical Virology (BioFiViNet)**](#spanish-network-of-physical-virology-2025-03-20) | March 20, 2025 | 
 | PI, [**Antoni Luque**](Team/index.md/#antoni-luque) delivered the opening plenary at the VII Spanish Network of Physical Virology [BioFiViNet](https://sites.google.com/view/guzmanresearch/physvirspain), a network he helped establish in 2010 as a PhD student under Prof. Dr. David Reguera at the University of Barcelona, one of its initial organizers. | <img src = "images/2025-03-21_BioFiNet_memoire.jpeg" width =400 height =200> |
 
+| [**U-Link Predoctoral Fellowship Proposal**](#u-link-predoctoral-fellowship-proposal) | March 6, 2025 |
+| Graduate students, [**Abelardo Aguilar**](#abelardo-aguilar) and [**Md Imran Noor**](#md-imran-noor) have submitted proposals for the [U-Link predoctoral fellowship](https://ulink.miami.edu/projects/u-link-predoctoral-fellowship/index.html), aiming to utilize multidisciplinary approaches for innovative scientific research. Abelardo focuses on the biochemical functions of viral procapsids with the HK97-fold through comparative genomics, structural predictions, and molecular modeling. Meanwhile, Noor is dedicated to engineering larger Adeno-associated virus (AAV) capsids to enhance genetic payload capacity for advanced gene therapy and vaccine delivery platforms. | <img src = "images/2025-03-06_u-link_proposals.png" width =300 height =100> |
+
 | [**Guest Speaker for Career Development Presentation**](#guest-speaker-for-career-development-presentation)| March 5, 2025 |
 | Research associate, [**Lucas Carbajal**](#lucas-carbajal) was invited to a classroom for career development seminar course (BIL 299), where he presented his career path from a recent graduate to research associate within the Luque lab. | <img src = "images/2025-03-05_bil_299_seminar_group.jpeg" width =150 height =100> |  
 
