@@ -14,15 +14,10 @@ jobs:
       - uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.3'
-          bundler-cache: true
+          bundler-cache: true   # uses your committed Gemfile.lock
 
-      - name: Install deps
-        run: |
-          bundle init || true
-          # Si ya tienes Gemfile, elimina las dos líneas siguientes y solo haz: bundle install
-          echo 'gem "jekyll", "~> 4.4"' >> Gemfile
-          echo 'gem "just-the-docs", "~> 0.10.1"' >> Gemfile
-          bundle install
+      - name: Install gems
+        run: bundle install --jobs 4 --retry 3
 
       - name: Build with Jekyll
         env:
@@ -45,3 +40,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         uses: actions/deploy-pages@v4
+
