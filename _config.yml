@@ -1,0 +1,34 @@
+title: "Luque Lab — Test Site"
+description: "Documentation site (Just the Docs) for Luque Lab"
+url: "https://luquelab.github.io"   # org/site root
+baseurl: "/test_webpage"            # repo name (project site subpath)
+permalink: pretty
+
+theme: just-the-docs
+
+# Navigation items shown in the top-right (optional; remove if not needed)
+aux_links:
+  "Luque Lab GitHub":
+    - "https://github.com/luquelab"
+
+# Built-in search
+search_enabled: true
+
+# (Optional) Where to put assets you add later (fonts, css, images)
+# just_the_docs:
+#   stylesheets:
+#     - assets/css/fonts.css
+
+# Collections (For news posts)
+
+collections:
+  news:
+    output: false         # keep items as data-only; we’ll render them on one page
+    sort_by: date
+
+defaults:
+  - scope:
+      path: ""
+      type: news
+    values:
+      layout: null
