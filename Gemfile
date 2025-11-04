@@ -1,7 +1,13 @@
-source 'https://rubygems.org'
+source "https://rubygems.org"
 
-gem "jekyll", "~> 4.4.1" # installed by `gem jekyll`
-# gem "webrick"        # required when using Ruby >= 3 and Jekyll <= 4.2.2
+gem "jekyll", "~> 4.4.1"
+gem "just-the-docs", "~> 0.10.1"
 
-gem "just-the-docs", "0.10.1" # pinned to the current release
-# gem "just-the-docs"        # always download the latest release
+group :jekyll_plugins do
+  # Add only plugins you actually use, e.g.:
+  # gem "jekyll-sitemap"
+  # gem "jekyll-redirect-from"
+end
+
+# For local `jekyll serve` if needed (Actions doesn’t require it):
+# gem "webrick", "~> 1.9"
