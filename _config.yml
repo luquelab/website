@@ -1,4 +1,4 @@
-title: "Luque Lab — Test Site"
+title: "Luque Lab — Website"
 description: "Documentation site (Just the Docs) for Luque Lab"
 url: "https://luquelab.github.io"   # org/site root
 baseurl: "/test_webpage"            # repo name (project site subpath)
