@@ -66,7 +66,5 @@ The tasks are grouped by priority and theme for clarity.
 * Create a **centralized collection of static visual assets** (logos, icons, banners) under `/assets/images/shared/`.
 * These shared files can be referenced across pages to maintain a **consistent visual identity** and simplify updates (e.g., if a logo changes, it only needs to be replaced once).
 
----
-
 
 
