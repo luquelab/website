@@ -1,0 +1,47 @@
+name: Build and Deploy Jekyll
+
+on:
+  push:
+    branches: [ "2025_migration" ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.3'
+          bundler-cache: true
+
+      - name: Install deps
+        run: |
+          bundle init || true
+          # Si ya tienes Gemfile, elimina las dos líneas siguientes y solo haz: bundle install
+          echo 'gem "jekyll", "~> 4.4"' >> Gemfile
+          echo 'gem "just-the-docs", "~> 0.10.1"' >> Gemfile
+          bundle install
+
+      - name: Build with Jekyll
+        env:
+          JEKYLL_ENV: production
+        run: bundle exec jekyll build -s . -d ./_site
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    needs: build
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v4
